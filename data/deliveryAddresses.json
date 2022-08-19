@@ -1,0 +1,47 @@
+{ 
+    "_id" : ObjectId("600aa8766df0ae05b8a05b26"), 
+    "list" : [
+        {
+            "name" : "Tuấn", 
+            "phone" : "0377757578", 
+            "address" : {
+                "province" : "1", 
+                "district" : "2", 
+                "wards" : "17", 
+                "street" : "549", 
+                "details" : "25/4"
+            }
+        }, 
+        {
+            "name" : "Trí", 
+            "phone" : "0943691609", 
+            "address" : {
+                "province" : "2", 
+                "district" : "25", 
+                "wards" : "327", 
+                "street" : "7219", 
+                "details" : "21/1"
+            }
+        }
+    ], 
+    "user" : ObjectId("5ff00f3cd513d40017db9a14"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("600c25e51a894201f5db02e9"), 
+    "list" : [
+        {
+            "name" : "Tuấn", 
+            "phone" : "0377757578", 
+            "address" : {
+                "province" : "1", 
+                "district" : "1", 
+                "wards" : "1", 
+                "street" : "1", 
+                "details" : "3"
+            }
+        }
+    ], 
+    "user" : ObjectId("600a841a286631008bd48d1b"), 
+    "__v" : NumberInt(0)
+}

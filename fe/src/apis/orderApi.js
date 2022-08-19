@@ -20,6 +20,12 @@ const orderApi = {
     const url = ORDER_API_ENDPOINT;
     return axiosClient.post(url, data);
   },
+
+  // api: tạo chữ ký đơn hàng
+  postCreateOrderSignature: (data) => {
+    const url = ORDER_API_ENDPOINT + '/signature';
+    return axiosClient.post(url, data);
+  },
 };
 
 export default orderApi;

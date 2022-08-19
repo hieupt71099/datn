@@ -80,18 +80,20 @@ function CustomerList() {
         const response = await adminApi.getCustomerList();
         if (isSubscribe && response) {
           const { list } = response.data;
+         
           const newList = list.map((item, index) => {
             return {
               key: index,
               id: item._id,
-              email: item.accountId.email,
-              birthday: item.birthday,
-              fullName: item.fullName,
-              address: item.address,
-              gender: item.gender,
-              authType: item.accountId.authType,
+              email: item?.accountId?.email,
+              birthday: item?.birthday,
+              fullName: item?.fullName,
+              address: item?.address,
+              gender: item?.gender,
+              authType: item?.accountId?.authType,
             };
           });
+         
           setData([...newList]);
           setIsLoading(false);
         }
@@ -104,7 +106,7 @@ function CustomerList() {
       isSubscribe = false;
     };
   }, []);
-
+  
   return (
     <>
       {isLoading ? (

@@ -1,0 +1,84 @@
+{ 
+    "_id" : ObjectId("5ff49270c8990b2eb4d6c33b"), 
+    "capacity" : NumberInt(10000), 
+    "weight" : NumberInt(50), 
+    "numberOfPort" : NumberInt(2), 
+    "warranty" : NumberInt(6), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609863784/products/SKU120500810/tzkjavj9akuklcrdnkzh.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609863785/products/SKU120500810/so6gogx1mkdnh9dacoga.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff4926fc8990b2eb4d6c339"), 
+    "details" : ObjectId("5ff4926fc8990b2eb4d6c33a"), 
+    "color" : "Bạc", 
+    "voltage" : "5V/2A", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6922e8537f205601be59c"), 
+    "capacity" : NumberInt(10050), 
+    "weight" : NumberInt(23), 
+    "numberOfPort" : NumberInt(2), 
+    "warranty" : NumberInt(18), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609994791/products/SKU19060099/rizwobo7jzbhwqfzf4bo.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609994792/products/SKU19060099/miaplq6uscdefmmdfq33.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609994794/products/SKU19060099/zrwp34leyiymimu0ldmo.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff6922d8537f205601be59a"), 
+    "details" : ObjectId("5ff6922e8537f205601be59b"), 
+    "color" : "cAM", 
+    "voltage" : "5V/2A", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6931d8537f205601be59f"), 
+    "capacity" : NumberInt(8000), 
+    "weight" : NumberInt(2), 
+    "numberOfPort" : NumberInt(1), 
+    "warranty" : NumberInt(6), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995030/products/SKU200600153/iscij9pocmheuropfoes.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995032/products/SKU200600153/drlyum5dbn9qpwpdzxpi.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995034/products/SKU200600153/ibbuadpvlaxbap2gnkoh.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff6931d8537f205601be59d"), 
+    "details" : ObjectId("5ff6931d8537f205601be59e"), 
+    "color" : "Hồng", 
+    "voltage" : "5V/1A", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff693f78537f205601be5a1"), 
+    "capacity" : NumberInt(20000), 
+    "weight" : NumberInt(500), 
+    "numberOfPort" : NumberInt(2), 
+    "warranty" : NumberInt(6), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995253/products/SKU201101085/bgjclc1tqa8zw4isliou.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995254/products/SKU201101085/c46y4cifhczcqhugav3j.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff693f68537f205601be5a0"), 
+    "details" : null, 
+    "color" : "Trắng", 
+    "voltage" : "9V/2A", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff694f58537f205601be5a4"), 
+    "capacity" : NumberInt(10000), 
+    "weight" : NumberInt(215), 
+    "numberOfPort" : NumberInt(2), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995501/products/SKU19030262/qvqdde4lgrhrfx9afzx3.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995502/products/SKU19030262/r6zvvtopugrvhqblalon.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995503/products/SKU19030262/bes1szkffnnzecvhfmef.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995504/products/SKU19030262/yefd7431vfuuupoqdgj8.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff694f48537f205601be5a2"), 
+    "details" : ObjectId("5ff694f48537f205601be5a3"), 
+    "color" : "Đen", 
+    "voltage" : "5V/2.4A", 
+    "__v" : NumberInt(0)
+}

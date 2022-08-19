@@ -1,0 +1,60 @@
+{ 
+    "_id" : ObjectId("5ff4934675cb79027b819057"), 
+    "connectionStd" : NumberInt(1), 
+    "resolution" : NumberInt(2), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609863996/products/SKU190900188/fgwbkabogboqaso6jimb.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609863997/products/SKU190900188/fgrdpn7m1q4htt2snhdz.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609863999/products/SKU190900188/e7zhhdo3el6x0a95ugea.webp"
+    ], 
+    "idProduct" : ObjectId("5ff4934575cb79027b819055"), 
+    "details" : ObjectId("5ff4934575cb79027b819056"), 
+    "frameSpeed" : "30fps/60fps", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f7d2b741513f8c31300a"), 
+    "connectionStd" : NumberInt(0), 
+    "resolution" : NumberInt(0), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610086348/products/SKU1404484/fvzyqspqnaftdxhtldy0.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610086349/products/SKU1404484/zigimjzgi7wmivhsetua.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7f7d1b741513f8c313008"), 
+    "details" : ObjectId("5ff7f7d1b741513f8c313009"), 
+    "frameSpeed" : "30", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f89bb741513f8c31300d"), 
+    "connectionStd" : NumberInt(1), 
+    "resolution" : NumberInt(2), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610086547/products/SKU1809050/jz3hz6n9piev2jjpinhf.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610086548/products/SKU1809050/bkstlddzh6n6abxowejo.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610086549/products/SKU1809050/ynzi6vvvcwo6cehkao1h.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610086550/products/SKU1809050/tikf0vkavz68yx6fhwjd.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7f89ab741513f8c31300b"), 
+    "details" : ObjectId("5ff7f89ab741513f8c31300c"), 
+    "frameSpeed" : "60fps", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f986b741513f8c313010"), 
+    "connectionStd" : NumberInt(1), 
+    "resolution" : NumberInt(1), 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610086784/products/SKU1603530/zmcxct1wx3mblgyquoup.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610086786/products/SKU1603530/hsoicylxgzh5iej2fixi.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610086787/products/SKU1603530/biu27uwzpwmofx3t1p3q.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7f986b741513f8c31300e"), 
+    "details" : ObjectId("5ff7f986b741513f8c31300f"), 
+    "frameSpeed" : "30fps/60fps", 
+    "__v" : NumberInt(0)
+}

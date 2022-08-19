@@ -1,0 +1,86 @@
+{ 
+    "_id" : ObjectId("5ff493b3c8990b2eb4d6c33e"), 
+    "type" : NumberInt(0), 
+    "connectionStd" : NumberInt(0), 
+    "warranty" : NumberInt(6), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864110/products/SKU150500857/xw9eo8t8f0ue1v22vhpk.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff493b3c8990b2eb4d6c33c"), 
+    "details" : ObjectId("5ff493b3c8990b2eb4d6c33d"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff695f58537f205601be5a6"), 
+    "type" : NumberInt(0), 
+    "connectionStd" : NumberInt(0), 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995758/products/SKU1704596/dkkkrlbtmooksvmkuzkw.png", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995760/products/SKU1704596/pioodxdgjdc5e7atp0ms.png", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995762/products/SKU1704596/j6sdqpfm2okv8wzjekkg.png", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995764/products/SKU1704596/qgh8lnmlpc2cqabp2ls6.png"
+    ], 
+    "idProduct" : ObjectId("5ff695f48537f205601be5a5"), 
+    "details" : null, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff697638537f205601be5a9"), 
+    "type" : NumberInt(2), 
+    "connectionStd" : NumberInt(4), 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996125/products/SKU191101519/m7nqilhrvuogtgf8d9w7.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996126/products/SKU191101519/azqli2tyldxjsuwta6po.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996127/products/SKU191101519/uuyst2s3gu8etb3tozfc.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff697638537f205601be5a7"), 
+    "details" : ObjectId("5ff697638537f205601be5a8"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6983c8537f205601be5ac"), 
+    "type" : NumberInt(1), 
+    "connectionStd" : NumberInt(3), 
+    "warranty" : NumberInt(6), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996341/products/SKU19040417/yaxgjbui85jahzupuy7b.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996342/products/SKU19040417/mi166xjp9tu5z7hqvoee.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996343/products/SKU19040417/b0wqdkkmzqszs3zrvtky.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996344/products/SKU19040417/mxq1pbf8rubxtrzwkgdt.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff6983b8537f205601be5aa"), 
+    "details" : ObjectId("5ff6983b8537f205601be5ab"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff699cd8537f205601be5af"), 
+    "type" : NumberInt(2), 
+    "connectionStd" : NumberInt(5), 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996740/products/SKU200400465/pjhqrjb9yciuhrvoo5f3.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996742/products/SKU200400465/dka6nthgnamb2g6cdxsm.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996743/products/SKU200400465/vcwaaobojuaodcix2by6.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996744/products/SKU200400465/zfbrkb3kzxfyg8mor7cz.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996745/products/SKU200400465/zt8a48i8muhcrr1alur1.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff699cd8537f205601be5ad"), 
+    "details" : ObjectId("5ff699cd8537f205601be5ae"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff69a7b8537f205601be5b1"), 
+    "type" : NumberInt(1), 
+    "connectionStd" : NumberInt(5), 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996920/products/SKU201202400/flz7lo4lt2okegzvqtgs.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996921/products/SKU201202400/rlqywrhk2nmhdxfjljbd.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996922/products/SKU201202400/qhfuw12fgjxzsniuou03.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff69a7b8537f205601be5b0"), 
+    "details" : null, 
+    "__v" : NumberInt(0)
+}

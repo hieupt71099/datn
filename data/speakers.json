@@ -1,0 +1,101 @@
+{ 
+    "_id" : ObjectId("5ff4964275cb79027b81905d"), 
+    "wattage" : NumberInt(60), 
+    "connectionPort" : "Bluetooth", 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864758/products/SKU19040925/pblrejjsem76jmduj4qc.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864760/products/SKU19040925/hbotpemxxsr0ju1mzavw.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864762/products/SKU19040925/gfdoqdifzerf3zdlfgdx.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864764/products/SKU19040925/qzcmeziaesp0ve7zrvqf.webp"
+    ], 
+    "idProduct" : ObjectId("5ff4964175cb79027b81905b"), 
+    "details" : ObjectId("5ff4964275cb79027b81905c"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff49daec8990b2eb4d6c34d"), 
+    "wattage" : NumberInt(5), 
+    "connectionPort" : "Bluetooth", 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609866662/products/SKU19040924/eg90hy1lx53nu4owcvem.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609866663/products/SKU19040924/amicmel76deeiipuealm.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609866664/products/SKU19040924/nq5fk32afv0lbpgbsmwq.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609866666/products/SKU19040924/toqujz9x2eubqvbxuc86.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff49dadc8990b2eb4d6c34b"), 
+    "details" : ObjectId("5ff49daec8990b2eb4d6c34c"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7e361b741513f8c312feb"), 
+    "wattage" : NumberInt(5), 
+    "connectionPort" : "Bluetooth", 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610081117/products/SKU201201137/p60ylspiohkz37e1vayl.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610081118/products/SKU201201137/vfffftrlrgpfpbgs4obz.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610081119/products/SKU201201137/x79ubdupt1mug8plqrvo.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610081120/products/SKU201201137/zctgeevngqhsniqvl5uq.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7e361b741513f8c312fea"), 
+    "details" : null, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7e44db741513f8c312fee"), 
+    "wattage" : NumberInt(20), 
+    "connectionPort" : "USB, SD Card", 
+    "warranty" : NumberInt(6), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610081351/products/SKU200600163/qiio12nygvdnpsfji8m1.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610081352/products/SKU200600163/fqb4skcrvvc6zrutp1m5.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610081353/products/SKU200600163/tbjb3rx3xoudhhfnfhyo.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7e44cb741513f8c312fec"), 
+    "details" : ObjectId("5ff7e44db741513f8c312fed"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7e52bb741513f8c312ff1"), 
+    "wattage" : NumberInt(60), 
+    "connectionPort" : "Bluetooth, USB, 3.5 mm, RCA, SD Card, Optical", 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610081575/products/SKU190904363/vejnccmvy2kxovicge8v.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7e52ab741513f8c312fef"), 
+    "details" : ObjectId("5ff7e52ab741513f8c312ff0"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7ed83b741513f8c312ff4"), 
+    "wattage" : NumberInt(15), 
+    "connectionPort" : "Bluetooth", 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610083707/products/SKU200400457/rwyvx5cqxibkpvi6htfp.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610083709/products/SKU200400457/o31ondobkarepufxtzk1.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610083710/products/SKU200400457/dw3d38mq6w2jkdhxesch.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610083712/products/SKU200400457/qqgnnlqpjimn3wdn4ke8.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7ed82b741513f8c312ff2"), 
+    "details" : ObjectId("5ff7ed83b741513f8c312ff3"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7ee79b741513f8c312ff6"), 
+    "wattage" : NumberInt(70), 
+    "connectionPort" : "Bluetooth", 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610083956/products/SKU1809027/clmyxlmydafchdemnazm.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610083957/products/SKU1809027/v2fp6sdysiqcgjt23kzl.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610083958/products/SKU1809027/vqgakiar22jb6wqod2e2.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610083960/products/SKU1809027/zinetwjl5if4dsxapbzk.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7ee79b741513f8c312ff5"), 
+    "details" : null, 
+    "__v" : NumberInt(0)
+}

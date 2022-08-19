@@ -1,0 +1,467 @@
+{ 
+    "_id" : ObjectId("5ff48f05c8990b2eb4d6c338"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609862907/products/SKU210500811/b6hd7pakinf3vnhnzt8r.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609862908/products/SKU210500811/s7hhsv0wflpxyqqkhgi6.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609862909/products/SKU210500811/ni5rh2zwvkpggsgrykbd.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609862910/products/SKU210500811/v5555pcm78szxugeklaa.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609862912/products/SKU210500811/vrnyohonnpwepkrdhm2p.jpg"
+    ], 
+    "cameras" : {
+        "before" : "32MP", 
+        "after" : "48MP"
+    }, 
+    "idProduct" : ObjectId("5ff48f04c8990b2eb4d6c336"), 
+    "details" : ObjectId("5ff48f04c8990b2eb4d6c337"), 
+    "cpu" : "Exynos 9610", 
+    "color" : "Xanh/Lục", 
+    "displaySize" : "1080 x 2340 pixel", 
+    "ram" : NumberInt(4), 
+    "rom" : NumberInt(64), 
+    "pin" : "4000 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff584694bc10c0d6c3afaf7"), 
+    "operating" : NumberInt(1), 
+    "catalogs" : [
+
+    ], 
+    "cameras" : {
+        "before" : "12MP", 
+        "after" : "2x 12MP"
+    }, 
+    "idProduct" : ObjectId("5ff584684bc10c0d6c3afaf5"), 
+    "details" : ObjectId("5ff584684bc10c0d6c3afaf6"), 
+    "cpu" : "A14 Bionic", 
+    "color" : "Xanh dương / Blue", 
+    "displaySize" : "2340 x 1080 pixel", 
+    "ram" : NumberInt(4), 
+    "rom" : NumberInt(64), 
+    "pin" : "2227 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5d8af491ee60bf4e0be95"), 
+    "operating" : NumberInt(1), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609947310/products/SKU201100338/b6gz6jd0lp3axyuaz1p2.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609947311/products/SKU201100338/tgw3snduk90tc6rl7nlm.jpg"
+    ], 
+    "cameras" : {
+        "before" : "7MP", 
+        "after" : "12MP"
+    }, 
+    "idProduct" : ObjectId("5ff5d8af491ee60bf4e0be94"), 
+    "details" : null, 
+    "cpu" : "A13 Bionic", 
+    "color" : "Đen / Black", 
+    "displaySize" : "1334 x 750", 
+    "ram" : NumberInt(3), 
+    "rom" : NumberInt(128), 
+    "pin" : "2227 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5d9d1491ee60bf4e0be98"), 
+    "operating" : NumberInt(1), 
+    "catalogs" : [
+
+    ], 
+    "cameras" : {
+        "before" : "12MP", 
+        "after" : "3 x 12MP"
+    }, 
+    "idProduct" : ObjectId("5ff5d9d0491ee60bf4e0be96"), 
+    "details" : ObjectId("5ff5d9d1491ee60bf4e0be97"), 
+    "cpu" : "A14 Bionic", 
+    "color" : "Bạc/Silver", 
+    "displaySize" : "1284 x 2778", 
+    "ram" : NumberInt(6), 
+    "rom" : NumberInt(256), 
+    "pin" : "3687 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5daf0491ee60bf4e0be9b"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609947879/products/SKU190800499/vzvsez04ztgnlzkypjhk.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609947880/products/SKU190800499/gmofwowt25w5vljqqcc2.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609947881/products/SKU190800499/adjdsawdwivztecyvvxj.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609947882/products/SKU190800499/of2pwunilhngdoqrun9a.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609947883/products/SKU190800499/qft771xnlvwdfztymrxw.jpg"
+    ], 
+    "cameras" : {
+        "before" : "10MP", 
+        "after" : "16MP"
+    }, 
+    "idProduct" : ObjectId("5ff5daef491ee60bf4e0be99"), 
+    "details" : ObjectId("5ff5daf0491ee60bf4e0be9a"), 
+    "cpu" : "Exynos 9825", 
+    "color" : "Bạc/Silver", 
+    "displaySize" : "1080 x 2280", 
+    "ram" : NumberInt(8), 
+    "rom" : NumberInt(256), 
+    "pin" : "3500 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5dc25491ee60bf4e0be9e"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948188/products/SKU200200641/mjoykc4sdaawpdw6p9ha.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948189/products/SKU200200641/ciknej7cgcmihdvte7sq.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948190/products/SKU200200641/tgjroana3byf2boocqay.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948192/products/SKU200200641/g8uanbxcutsuftoct9t5.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948193/products/SKU200200641/htl7lrl5szsqbategtfu.jpg"
+    ], 
+    "cameras" : {
+        "before" : "10MP", 
+        "after" : "2x 12MP"
+    }, 
+    "idProduct" : ObjectId("5ff5dc25491ee60bf4e0be9c"), 
+    "details" : ObjectId("5ff5dc25491ee60bf4e0be9d"), 
+    "cpu" : "Snapdragon 855+", 
+    "color" : "Tím/Mirror Purple", 
+    "displaySize" : "2636x1080", 
+    "ram" : NumberInt(8), 
+    "rom" : NumberInt(256), 
+    "pin" : "3300 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5dd59491ee60bf4e0bea1"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948496/products/SKU191004603/kssub3aw2ey1j6mrfh3r.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948497/products/SKU191004603/wlcss81zcsnrhhuk63en.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948498/products/SKU191004603/gft9bkr4wmz5korr7brl.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948499/products/SKU191004603/xsntjhvagekzmzzmmbrf.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948501/products/SKU191004603/eizdk8fcglhtyqv1sjw8.jpg"
+    ], 
+    "cameras" : {
+        "before" : "8MP", 
+        "after" : "2 x 13MP"
+    }, 
+    "idProduct" : ObjectId("5ff5dd58491ee60bf4e0be9f"), 
+    "details" : ObjectId("5ff5dd59491ee60bf4e0bea0"), 
+    "cpu" : "Snapdragon 450", 
+    "color" : "Đỏ/Red", 
+    "displaySize" : "720 x 1520", 
+    "ram" : NumberInt(3), 
+    "rom" : NumberInt(32), 
+    "pin" : "4000 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5dea6491ee60bf4e0bea4"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948829/products/SKU200100156/g637nat8hmvammax5tvx.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948830/products/SKU200100156/iic7si5aiwemjxzm9i71.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948832/products/SKU200100156/xdajf2v89embvbsbr10y.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948833/products/SKU200100156/d4jahwoiuuo9gvzpimdm.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948834/products/SKU200100156/kfvallfo9cjnoeuzkrld.jpg"
+    ], 
+    "cameras" : {
+        "before" : "16MP", 
+        "after" : "3 x 48MP"
+    }, 
+    "idProduct" : ObjectId("5ff5dea6491ee60bf4e0bea2"), 
+    "details" : ObjectId("5ff5dea6491ee60bf4e0bea3"), 
+    "cpu" : "MediaTek Helio P70", 
+    "color" : "Xanh lục/Green", 
+    "displaySize" : "1080 x 2340 pixel", 
+    "ram" : NumberInt(8), 
+    "rom" : NumberInt(128), 
+    "pin" : "4000 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5dfae491ee60bf4e0bea7"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609949086/products/SKU190800471/leioivehewatyqcjjcuj.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609949087/products/SKU190800471/cqug0gmqai43imkzqb02.jpg"
+    ], 
+    "cameras" : {
+        "before" : "5MP", 
+        "after" : "8MP"
+    }, 
+    "idProduct" : ObjectId("5ff5dfad491ee60bf4e0bea5"), 
+    "details" : ObjectId("5ff5dfae491ee60bf4e0bea6"), 
+    "cpu" : "MediaTek MT6762R", 
+    "color" : "Đen/Black", 
+    "displaySize" : "720 x 1560 Pixels", 
+    "ram" : NumberInt(2), 
+    "rom" : NumberInt(31), 
+    "pin" : "4000 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e0ba491ee60bf4e0beaa"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609949361/products/SKU200100158/zjrvtfupxfnppm321ini.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609949362/products/SKU200100158/oh9jhr41mkiruhjvoxpy.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609949363/products/SKU200100158/ykuqwniaekhz53kn5czn.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609949364/products/SKU200100158/hbjc2meqcurdjkbeizxn.jpg"
+    ], 
+    "cameras" : {
+        "before" : "16MP", 
+        "after" : "4 x 48MP"
+    }, 
+    "idProduct" : ObjectId("5ff5e0b9491ee60bf4e0bea8"), 
+    "details" : ObjectId("5ff5e0b9491ee60bf4e0bea9"), 
+    "cpu" : "Snapdragon 730", 
+    "color" : "Đen/Black", 
+    "displaySize" : "1080 x 2400", 
+    "ram" : NumberInt(8), 
+    "rom" : NumberInt(256), 
+    "pin" : "4000 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e270491ee60bf4e0bead"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609949802/products/SKU191007000/ngsbi9mqkcjvwgnhxzyq.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609949803/products/SKU191007000/l6ccy9yrvy0rwtbvbt8g.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609949804/products/SKU191007000/n1uv9i8iiyuxdpkgzvsq.jpg"
+    ], 
+    "cameras" : {
+        "before" : "13MP", 
+        "after" : "1 x  13MP"
+    }, 
+    "idProduct" : ObjectId("5ff5e26f491ee60bf4e0beab"), 
+    "details" : ObjectId("5ff5e270491ee60bf4e0beac"), 
+    "cpu" : "Snapdragon 665", 
+    "color" : "Tím/Purple", 
+    "displaySize" : "720 x 1600", 
+    "ram" : NumberInt(3), 
+    "rom" : NumberInt(64), 
+    "pin" : "5000 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e38b491ee60bf4e0beb0"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609950084/products/SKU200400120/tqlbokjdvqieyv2nhjne.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609950085/products/SKU200400120/aqgip3dtuzlnzx74gxmg.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609950086/products/SKU200400120/x8wloydgipjwknrurn0t.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609950087/products/SKU200400120/etogmlbpsuptpbkdq8we.jpg"
+    ], 
+    "cameras" : {
+        "before" : "13MP", 
+        "after" : "48MP"
+    }, 
+    "idProduct" : ObjectId("5ff5e38b491ee60bf4e0beae"), 
+    "details" : ObjectId("5ff5e38b491ee60bf4e0beaf"), 
+    "cpu" : "Snapdragon 665", 
+    "color" : "Đỏ/Red", 
+    "displaySize" : "720 x 1600 Pixels", 
+    "ram" : NumberInt(4), 
+    "rom" : NumberInt(128), 
+    "pin" : "5000 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e498491ee60bf4e0beb3"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609950355/products/SKU191006998/ux8kcd1uktwg87uajhnr.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609950356/products/SKU191006998/xpimffmhlmfzfh0pg1lt.jpg"
+    ], 
+    "cameras" : {
+        "before" : "16MP", 
+        "after" : "48MP"
+    }, 
+    "idProduct" : ObjectId("5ff5e497491ee60bf4e0beb1"), 
+    "details" : ObjectId("5ff5e498491ee60bf4e0beb2"), 
+    "cpu" : "Snapdragon 712", 
+    "color" : "Xanh lam, Tím", 
+    "displaySize" : "1080 x 2340", 
+    "ram" : NumberInt(4), 
+    "rom" : NumberInt(128), 
+    "pin" : "4035 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e645491ee60bf4e0beb6"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609950780/products/SKU200700156/xi8wbqg0g8bixhef2hdm.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609950782/products/SKU200700156/lmvh4vhjko7f1hdn4ewf.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609950783/products/SKU200700156/cibzklw2dwz8nqorer8r.jpg"
+    ], 
+    "cameras" : {
+        "before" : "13MP", 
+        "after" : "3 x  48MP"
+    }, 
+    "idProduct" : ObjectId("5ff5e644491ee60bf4e0beb4"), 
+    "details" : ObjectId("5ff5e644491ee60bf4e0beb5"), 
+    "cpu" : "MediaTek Helio G85", 
+    "color" : "Xám", 
+    "displaySize" : "1080 x 2340 pixels", 
+    "ram" : NumberInt(4), 
+    "rom" : NumberInt(128), 
+    "pin" : "5020 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e73f491ee60bf4e0beb9"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609951031/products/SKU200100161/tedwjh482zsdydqge5ub.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609951033/products/SKU200100161/x58dstd3zjarssogunqh.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609951034/products/SKU200100161/gpppssoep5daraqtlpox.jpg"
+    ], 
+    "cameras" : {
+        "before" : "5MP", 
+        "after" : "2 x 32MP"
+    }, 
+    "idProduct" : ObjectId("5ff5e73e491ee60bf4e0beb7"), 
+    "details" : ObjectId("5ff5e73e491ee60bf4e0beb8"), 
+    "cpu" : "Snapdragon 730", 
+    "color" : "Đen/Black", 
+    "displaySize" : "1080 x 2340", 
+    "ram" : NumberInt(8), 
+    "rom" : NumberInt(256), 
+    "pin" : "5260 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e935491ee60bf4e0bebc"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609951532/products/SKU200700137/gmuesja9p3ddxg19tyex.jpg"
+    ], 
+    "cameras" : {
+        "before" : "5MP", 
+        "after" : "2 x  20MP"
+    }, 
+    "idProduct" : ObjectId("5ff5e934491ee60bf4e0beba"), 
+    "details" : ObjectId("5ff5e935491ee60bf4e0bebb"), 
+    "cpu" : "Snapdragon 865", 
+    "color" : "Trắng", 
+    "displaySize" : "1080 x 2400 Pixels", 
+    "ram" : NumberInt(6), 
+    "rom" : NumberInt(128), 
+    "pin" : "4700 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5ea2f491ee60bf4e0bebf"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609951782/products/SKU190800143/o1ded1l8btnod98ege2g.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609951784/products/SKU190800143/se9cedcsyt7uevxc5yak.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609951785/products/SKU190800143/hzqw4ypk7qbiawclhzaj.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609951787/products/SKU190800143/iml54wkz3fqcvr6razw8.jpg"
+    ], 
+    "cameras" : {
+        "before" : "5MP", 
+        "after" : "1 x  13MP"
+    }, 
+    "idProduct" : ObjectId("5ff5ea2f491ee60bf4e0bebd"), 
+    "details" : ObjectId("5ff5ea2f491ee60bf4e0bebe"), 
+    "cpu" : "MediaTek MT6761", 
+    "color" : "Đen/Black", 
+    "displaySize" : "720 x 1520 Pixels", 
+    "ram" : NumberInt(2), 
+    "rom" : NumberInt(16), 
+    "pin" : "3000 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5eb5f491ee60bf4e0bec2"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952086/products/SKU200400658/itihbimzdsvjet03odef.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952087/products/SKU200400658/uiy9htxl70w0vcffjzqn.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952089/products/SKU200400658/exskujjd8v3z6dh7l3xe.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952090/products/SKU200400658/vppyxkfgc2uvkeybnwiu.jpg"
+    ], 
+    "cameras" : {
+        "before" : "5MP", 
+        "after" : "1 x  5MP"
+    }, 
+    "idProduct" : ObjectId("5ff5eb5e491ee60bf4e0bec0"), 
+    "details" : ObjectId("5ff5eb5f491ee60bf4e0bec1"), 
+    "cpu" : "MediaTek MT6761", 
+    "color" : "Đen / Charcoal", 
+    "displaySize" : "720 x 1440", 
+    "ram" : NumberInt(1), 
+    "rom" : NumberInt(16), 
+    "pin" : "2500 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5ecae491ee60bf4e0bec5"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952425/products/SKU190800194/ovcd83jze7w882e2igix.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952426/products/SKU190800194/udnmlbfaulkbk7rvrlza.jpg"
+    ], 
+    "cameras" : {
+        "before" : "8MP", 
+        "after" : "2 x  32MP"
+    }, 
+    "idProduct" : ObjectId("5ff5ecad491ee60bf4e0bec3"), 
+    "details" : ObjectId("5ff5ecae491ee60bf4e0bec4"), 
+    "cpu" : "Kirin 710", 
+    "color" : "Xanh lam, Tím", 
+    "displaySize" : "1080 x 2340 Pixels", 
+    "ram" : NumberInt(6), 
+    "rom" : NumberInt(128), 
+    "pin" : "3340 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5edc0491ee60bf4e0bec8"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952697/products/SKU200100162/unodblaibs1zwxi6wd7b.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952698/products/SKU200100162/gugad48ul5oqmfsiuibt.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952699/products/SKU200100162/h9wudus7ytyrza12wvgr.jpg"
+    ], 
+    "cameras" : {
+        "before" : "8MP", 
+        "after" : "2 x  32MP"
+    }, 
+    "idProduct" : ObjectId("5ff5edbf491ee60bf4e0bec6"), 
+    "details" : ObjectId("5ff5edbf491ee60bf4e0bec7"), 
+    "cpu" : "MediaTek MT6768", 
+    "color" : "Đen / Black", 
+    "displaySize" : "1080 x 2340 Pixels", 
+    "ram" : NumberInt(6), 
+    "rom" : NumberInt(128), 
+    "pin" : "4500 mAh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5ee78491ee60bf4e0beca"), 
+    "operating" : NumberInt(0), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952884/products/SKU200100165/ian3oz2s830wyphghld4.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952885/products/SKU200100165/bdhgp9bkyvdlexqzai3s.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952886/products/SKU200100165/iaqgkw4ozppkwfxjbikt.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952887/products/SKU200100165/aue0hwknsu44xpktrmxo.jpg"
+    ], 
+    "cameras" : {
+        "before" : "32MP", 
+        "after" : "1 x 48MP"
+    }, 
+    "idProduct" : ObjectId("5ff5ee77491ee60bf4e0bec9"), 
+    "details" : null, 
+    "cpu" : "Snapdragon 665", 
+    "color" : "Trắng / White", 
+    "displaySize" : "1080 x 2340 Pixels", 
+    "ram" : NumberInt(8), 
+    "rom" : NumberInt(128), 
+    "pin" : "4500 mAh", 
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,21 @@
+{ 
+    "_id" : ObjectId("5ff001cdd8fa2f0017b0af9f"), 
+    "code" : "071370", 
+    "email" : "ahihi@gmail.com", 
+    "dateCreated" : 1609564621795.0, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff0021dd8fa2f0017b0afa0"), 
+    "code" : "441481", 
+    "email" : "hokhacminhtri@gmail.com", 
+    "dateCreated" : 1609564701587.0, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6034a4b3b5e71500f68c532e"), 
+    "code" : "103544", 
+    "email" : "tuannguyen2504@gmail.com", 
+    "dateCreated" : 1614062771087.0, 
+    "__v" : NumberInt(0)
+}

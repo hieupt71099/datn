@@ -1,0 +1,163 @@
+{ 
+    "_id" : ObjectId("5ff436ec05413601ab853ad9"), 
+    "speed" : {
+        "readSpeed" : NumberInt(0), 
+        "writeSpeed" : NumberInt(0), 
+        "rpm" : NumberInt(7200)
+    }, 
+    "capacity" : NumberInt(5), 
+    "size" : NumberInt(0), 
+    "type" : NumberInt(0), 
+    "connectionStd" : NumberInt(1), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840357/products/SKU190900189/vjxsu7eydokbwfd4axcg.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840359/products/SKU190900189/dyzd2xzfnxwowzmtcseu.webp"
+    ], 
+    "idProduct" : ObjectId("5ff436eb05413601ab853ad7"), 
+    "details" : ObjectId("5ff436eb05413601ab853ad8"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5433e1c52e22e50004364"), 
+    "speed" : {
+        "readSpeed" : NumberInt(550), 
+        "writeSpeed" : NumberInt(500), 
+        "rpm" : NumberInt(1500)
+    }, 
+    "capacity" : NumberInt(256), 
+    "size" : NumberInt(0), 
+    "type" : NumberInt(1), 
+    "connectionStd" : NumberInt(0), 
+    "warranty" : NumberInt(60), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609909050/products/SKU191100747/wdsrsqevnegj1hm0nean.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff5433e1c52e22e50004362"), 
+    "details" : ObjectId("5ff5433e1c52e22e50004363"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff544ac1c52e22e50004366"), 
+    "speed" : {
+        "readSpeed" : NumberInt(7000), 
+        "writeSpeed" : NumberInt(5300), 
+        "rpm" : NumberInt(1500)
+    }, 
+    "capacity" : NumberInt(1000), 
+    "size" : NumberInt(2), 
+    "type" : NumberInt(1), 
+    "connectionStd" : NumberInt(3), 
+    "warranty" : NumberInt(60), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609909418/products/SKU201100383/kr8ju6hbywcspwpqmr90.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609909419/products/SKU201100383/fghygxx3fslscguz1pro.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff544ac1c52e22e50004365"), 
+    "details" : null, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff545b61c52e22e50004369"), 
+    "speed" : {
+        "readSpeed" : NumberInt(3500), 
+        "writeSpeed" : NumberInt(2300), 
+        "rpm" : NumberInt(1500)
+    }, 
+    "capacity" : NumberInt(250), 
+    "size" : NumberInt(3), 
+    "type" : NumberInt(1), 
+    "connectionStd" : NumberInt(3), 
+    "warranty" : NumberInt(60), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609909678/products/SKU19030375/jxtgixodruolv3uc54ls.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609909680/products/SKU19030375/o2hu2zcso5qrp77nk389.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609909681/products/SKU19030375/xk45uv9sf8mxr4pbnee9.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff545b61c52e22e50004367"), 
+    "details" : ObjectId("5ff545b61c52e22e50004368"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5492b1c52e22e5000436c"), 
+    "speed" : {
+        "readSpeed" : NumberInt(0), 
+        "writeSpeed" : NumberInt(0), 
+        "rpm" : NumberInt(7000)
+    }, 
+    "capacity" : NumberInt(1000), 
+    "size" : NumberInt(0), 
+    "type" : NumberInt(0), 
+    "connectionStd" : NumberInt(1), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609910565/products/SKU200501165/pxr1v3wwi43eleuortyf.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609910566/products/SKU200501165/fgo32rczc7c8k82zqrlv.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609910567/products/SKU200501165/dmzt4lejmod10ocqvirv.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609910569/products/SKU200501165/senc62wdfiznw8axgnci.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff5492b1c52e22e5000436a"), 
+    "details" : ObjectId("5ff5492b1c52e22e5000436b"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff54a231c52e22e5000436f"), 
+    "speed" : {
+        "readSpeed" : NumberInt(0), 
+        "writeSpeed" : NumberInt(0), 
+        "rpm" : NumberInt(5000)
+    }, 
+    "capacity" : NumberInt(128), 
+    "size" : NumberInt(0), 
+    "type" : NumberInt(0), 
+    "connectionStd" : NumberInt(0), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609910811/products/SKU1501931/igkludap1g8xtrvd4nnl.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609910812/products/SKU1501931/blbsl8gfdp95szowxd33.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609910814/products/SKU1501931/kkqxsueqdgpqy4btdkim.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609910815/products/SKU1501931/r5dan8fuavjgsaf7edgo.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff54a221c52e22e5000436d"), 
+    "details" : ObjectId("5ff54a221c52e22e5000436e"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff54b471c52e22e50004372"), 
+    "speed" : {
+        "readSpeed" : NumberInt(0), 
+        "writeSpeed" : NumberInt(0), 
+        "rpm" : NumberInt(7200)
+    }, 
+    "capacity" : NumberInt(2000), 
+    "size" : NumberInt(1), 
+    "type" : NumberInt(0), 
+    "connectionStd" : NumberInt(0), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609911104/products/SKU18120128/jsdxknkoc3y0lengqwms.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609911105/products/SKU18120128/uk9e7aeotcj7ys02edqe.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff54b461c52e22e50004370"), 
+    "details" : ObjectId("5ff54b461c52e22e50004371"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff54c161c52e22e50004375"), 
+    "speed" : {
+        "readSpeed" : NumberInt(0), 
+        "writeSpeed" : NumberInt(0), 
+        "rpm" : NumberInt(5400)
+    }, 
+    "capacity" : NumberInt(4000), 
+    "size" : NumberInt(1), 
+    "type" : NumberInt(0), 
+    "connectionStd" : NumberInt(0), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609911315/products/SKU200400114/jlyyoh6aoyuklmdklshg.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff54c161c52e22e50004373"), 
+    "details" : ObjectId("5ff54c161c52e22e50004374"), 
+    "__v" : NumberInt(0)
+}

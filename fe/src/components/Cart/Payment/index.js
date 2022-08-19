@@ -9,9 +9,10 @@ function CartPayment(props) {
   const { carts, isCheckout, transportFee, onCheckout, isLoading } = props;
   // giá tạm tính
   const tempPrice = carts.reduce(
-    (a, b) => a + (b.price + (b.price * b.discount) / 100) * b.amount,
+    (a, b) => a + b.price * b.amount,
     0,
   );
+  console.log(tempPrice);
   // tổng khuyến mãi
   const totalDiscount = carts.reduce(
     (a, b) => a + ((b.price * b.discount) / 100) * b.amount,

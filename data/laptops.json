@@ -1,0 +1,783 @@
+{ 
+    "_id" : ObjectId("5fef51bd396e2d00174591a9"), 
+    "cpu" : {
+        "processorCount" : NumberInt(8), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "9750H up to 4.5 GHz"
+    }, 
+    "weight" : 1.4, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609519546/products/SKU200500854/ntjqm8yodgdgnrv08viz.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609519546/products/SKU200500854/ltgfpztxg18qkqgvoehq.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609519547/products/SKU200500854/of87vzpwsnzteuswu65h.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609519547/products/SKU200500854/fddatmilbxvq8j8xjome.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609519547/products/SKU200500854/qkpy5oxbl2ycnk8jubin.webp"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5fef51bd396e2d00174591a7"), 
+    "details" : ObjectId("5fef51bd396e2d00174591a8"), 
+    "displaySize" : "15.6\" FHD", 
+    "display" : "Intel UHD", 
+    "operating" : "MacOS", 
+    "disk" : "512GB SSD", 
+    "ram" : "8GB Onboard LPDDR3 2133MHz Không nâng cấp được )", 
+    "pin" : "58 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff3e5515239840017e2eda5"), 
+    "cpu" : {
+        "processorCount" : NumberInt(8), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "9750H up to 4.5 GH"
+    }, 
+    "weight" : 1.3, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609819472/products/SKU200500855/mb0qnpdfohtv8sopla1b.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609819472/products/SKU200500855/za8u02lnnivyp87qsf8o.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609819473/products/SKU200500855/vwnv32gzh98lg8tpfpqb.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609819473/products/SKU200500855/bwb65gz37nurrpfj7gdt.webp"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff3e5515239840017e2eda4"), 
+    "details" : null, 
+    "displaySize" : "13.3\"", 
+    "display" : "Không", 
+    "operating" : "MacOS", 
+    "disk" : "512GB SSD", 
+    "ram" : "8GB Onboard LPDDR4 3733MHz", 
+    "pin" : "Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff3e7615239840017e2eda8"), 
+    "cpu" : {
+        "processorCount" : NumberInt(8), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "2.3 GHz"
+    }, 
+    "weight" : 1.5, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609819999/products/SKU200500856/akohod82ukbehydawfe1.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609820000/products/SKU200500856/vsh9kxcu5l2ran9xh30y.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609820000/products/SKU200500856/fl29wzsuibauuclccoz2.webp"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff3e7615239840017e2eda6"), 
+    "details" : ObjectId("5ff3e7615239840017e2eda7"), 
+    "displaySize" : "13.3\"", 
+    "display" : "Intel Iris Plus Graphics 650", 
+    "operating" : "MacOS", 
+    "disk" : "1TB SSD", 
+    "ram" : "8GB LPDDR3 2133MHz", 
+    "pin" : "4 cell 84 Wh Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff42b4990cbaf010df317b2"), 
+    "cpu" : {
+        "processorCount" : NumberInt(8), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "1135G7, Intel Core thế hệ thứ 11"
+    }, 
+    "weight" : 1.4, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609837373/products/SKU200500858/b9pugmdbuk5gbfeuuuds.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609837374/products/SKU200500858/gfcxth2i85hx0wdgwzi4.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609837376/products/SKU200500858/cvobcbes7yidkjiegxik.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609837377/products/SKU200500858/rehuwmmrx5zwuhpiumh0.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609837378/products/SKU200500858/imltvfplnrqal8tl7i2f.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff42b4990cbaf010df317b0"), 
+    "details" : ObjectId("5ff42b4990cbaf010df317b1"), 
+    "displaySize" : "14\" ( 1920 x 1080 ) Full HD IPS không cảm ứng , HD webcam", 
+    "display" : "Intel Iris Xe Max Graphics", 
+    "operating" : "Windows 10 Home 64-bit", 
+    "disk" : "1TB SSD M.2 NVMe /", 
+    "ram" : "16GB Onboard LPDDR4X 2666MHz Không nâng cấp được )", 
+    "pin" : "4 cell 58 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff432571ff60f0017a7c822"), 
+    "cpu" : {
+        "processorCount" : NumberInt(8), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "9750H up to 4.5 GHz"
+    }, 
+    "weight" : NumberInt(2), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609839189/products/SKU200500857/jiv6deptstk1qjm3qwfd.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609839189/products/SKU200500857/qwiofgmnwnadb7isuz3a.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609839190/products/SKU200500857/myts5ftq2jidpasjubnq.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609839190/products/SKU200500857/kg2ple8gb0uavwdggqup.jpg"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff432571ff60f0017a7c820"), 
+    "details" : ObjectId("5ff432571ff60f0017a7c821"), 
+    "displaySize" : "16\"", 
+    "display" : "AMD Radeon Pro 5300M 4GB GDDR6 / Intel UHD Graphics 630", 
+    "operating" : "MacOS", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "16GB Onboard 2666MHz", 
+    "pin" : "100 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff43608c8990b2eb4d6c305"), 
+    "cpu" : {
+        "processorCount" : NumberInt(8), 
+        "series" : NumberInt(2), 
+        "chipBrand" : "Intel", 
+        "detail" : "9750H up to 4.5 GHz"
+    }, 
+    "weight" : 2.3, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840126/products/SKU200500859/pqrps1adcr9pmdijf0xa.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840127/products/SKU200500859/tvdtpvt9ozgnjjfcvcmq.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840129/products/SKU200500859/bceb6jpn7mhjhvxbkrqy.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840130/products/SKU200500859/itmfeezkcdqi71odzaz1.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff43608c8990b2eb4d6c303"), 
+    "details" : ObjectId("5ff43608c8990b2eb4d6c304"), 
+    "displaySize" : "15.6\"", 
+    "display" : "NVIDIA GeForce GTX 1650Ti 4GB GDDR6 / Intel UHD Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "1 x 8GB DDR4 2933MHz", 
+    "pin" : "4 cell 57 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4379ec8990b2eb4d6c308"), 
+    "cpu" : {
+        "processorCount" : NumberInt(8), 
+        "series" : NumberInt(2), 
+        "chipBrand" : "Intel", 
+        "detail" : "9750H up to 4.5 GHz"
+    }, 
+    "weight" : 2.2, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840532/products/SKU200500860/ykou3mj2bnfsjmr89mkd.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840533/products/SKU200500860/ivvl6uaympk8cuez433q.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840535/products/SKU200500860/pjkeqkauzjg7fr49r7el.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840536/products/SKU200500860/v1z0r4a5mgd0c2s0mvxj.jpg"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff4379dc8990b2eb4d6c306"), 
+    "details" : ObjectId("5ff4379ec8990b2eb4d6c307"), 
+    "displaySize" : "15.6\"", 
+    "display" : "NVIDIA GeForce GTX 1660Ti 6GB GDDR6 / Intel UHD Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "1 x 8GB DDR4 2933MHz", 
+    "pin" : "4 cell 59 Wh", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4390dc8990b2eb4d6c30b"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "9750H up to 4.5 GHz"
+    }, 
+    "weight" : 1.5, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840898/products/SKU200500861/gukqnyacb9w73eefk51n.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840901/products/SKU200500861/ygppqmxwpqwji4fjz1cr.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840902/products/SKU200500861/p48liwru68kic3fou25t.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840904/products/SKU200500861/w7fri4bbbu7gx1s0ivvr.jpg"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff4390dc8990b2eb4d6c309"), 
+    "details" : ObjectId("5ff4390dc8990b2eb4d6c30a"), 
+    "displaySize" : "14\"", 
+    "display" : "Intel UHD Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "256GB SSD M.2 NVMe", 
+    "ram" : "1 x 4GB Onboard DDR4 2400MHz", 
+    "pin" : "3 cell 48 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff43b4cc8990b2eb4d6c30e"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(2), 
+        "chipBrand" : "Intel", 
+        "detail" : "9750H up to 4.5 GHz"
+    }, 
+    "weight" : 1.2, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609841475/products/SKU200500863/j8aaivjagaxyj8gxeq7f.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609841476/products/SKU200500863/rd2xqnwtocnfoggbh0xf.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609841477/products/SKU200500863/vegfkmrz0wwq2lesfnbw.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609841478/products/SKU200500863/ficjye1brwkmzr1cqzqc.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff43b4cc8990b2eb4d6c30c"), 
+    "details" : ObjectId("5ff43b4cc8990b2eb4d6c30d"), 
+    "displaySize" : "13.3\"", 
+    "display" : "Intel Iris Xe Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "1 x 8GB DDR4 2933MHz", 
+    "pin" : "4 cell 67 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff43df6c8990b2eb4d6c311"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "1.6GHz up to 4.2 GHz"
+    }, 
+    "weight" : 1.7, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609842157/products/SKU200500864/uijmjyfkmk9reusrabud.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609842158/products/SKU200500864/ehzi4ljtr2zwby9cjjfo.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609842159/products/SKU200500864/ha9iwugr4xvlg9scqsf2.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609842160/products/SKU200500864/gfrtdh94ldfyvkzjj2ji.jpg"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff43df5c8990b2eb4d6c30f"), 
+    "details" : ObjectId("5ff43df5c8990b2eb4d6c310"), 
+    "displaySize" : "15.6\"", 
+    "display" : "Không có", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "8GB Onboard DDR4 2666MHz", 
+    "pin" : "4 cell 57 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff46229c8990b2eb4d6c314"), 
+    "cpu" : {
+        "processorCount" : NumberInt(6), 
+        "series" : NumberInt(5), 
+        "chipBrand" : "AMD", 
+        "detail" : "3.0 GHz up to 4.0 GHz"
+    }, 
+    "weight" : 2.6, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609851425/products/SKU200500865/yofspd7pbdy7wu6qunp8.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609851426/products/SKU200500865/k31xzd2whxioltfxsrfo.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609851428/products/SKU200500865/aqt5bn2rasxqzp6z8jjk.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609851429/products/SKU200500865/i1tzeid0zo46lgh6ljdl.jpg"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff46228c8990b2eb4d6c312"), 
+    "details" : ObjectId("5ff46229c8990b2eb4d6c313"), 
+    "displaySize" : "17.3\"", 
+    "display" : "NVIDIA GeForce GTX 1650Ti 4GB GDDR6 / AMD Radeon Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "1 x 8GB DDR4 3200MHz", 
+    "pin" : "3 cell 48 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff46419c8990b2eb4d6c317"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "1.6 GHz up to 4.2 GHz"
+    }, 
+    "weight" : 1.7, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609851922/products/SKU200500866/vrhogdhbvu9n9zkyspdr.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609851923/products/SKU200500866/x4cssxwtzf7jtmulfdk1.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609851924/products/SKU200500866/gtqhqzzd7y1p1b2qaiuc.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609851926/products/SKU200500866/t2zmckr0rnyaf9u7zf5u.jpg"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff46418c8990b2eb4d6c315"), 
+    "details" : ObjectId("5ff46419c8990b2eb4d6c316"), 
+    "displaySize" : "15\"", 
+    "display" : "NVIDIA GeForce GTX 1650 4GB GDDR5 / Intel UHD Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "8GB Onboard", 
+    "pin" : "8 cell 71 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff465c6c8990b2eb4d6c31a"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(2), 
+        "chipBrand" : "Intel", 
+        "detail" : "1.8 GHz up to 4.9 GHz"
+    }, 
+    "weight" : 2.1, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609852350/products/SKU200500867/sma7ktxfzsqqzpfmf6s3.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609852351/products/SKU200500867/dx23k1k295aqwf8pnonz.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609852353/products/SKU200500867/b8fyzhna73vzvrqcvwwh.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609852354/products/SKU200500867/yx6fokcunnjyea06qb2t.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff465c5c8990b2eb4d6c318"), 
+    "details" : ObjectId("5ff465c5c8990b2eb4d6c319"), 
+    "displaySize" : "15.6\"", 
+    "display" : "AMD Radeon 610 2GB GDDR5 / Intel UHD Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "256GB SSD M.2 NVMe", 
+    "ram" : "1 x 8GB DDR4 2666MHz", 
+    "pin" : "3 cell 42 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff47f71c8990b2eb4d6c31d"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "1.0 GHz up to 3.6 GHz"
+    }, 
+    "weight" : 2.2, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609858919/products/SKU200500868/jupyjh2w6qmbftlfdb7h.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609858922/products/SKU200500868/nbzzd8lrxu4r5bjxw8n4.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609858923/products/SKU200500868/w4yngphykqihubs555v0.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609858924/products/SKU200500868/uf7u5ouhayxjqakaiqod.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff47f71c8990b2eb4d6c31b"), 
+    "details" : ObjectId("5ff47f71c8990b2eb4d6c31c"), 
+    "displaySize" : "15.6\"", 
+    "display" : "NVIDIA GeForce MX230 2GB GDDR5 / Intel UHD Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "256GB SSD M.2 NVMe", 
+    "ram" : "1 x 4GB DDR4 2666MHz", 
+    "pin" : "3 cell 42 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff480f7c8990b2eb4d6c320"), 
+    "cpu" : {
+        "processorCount" : NumberInt(2), 
+        "series" : NumberInt(0), 
+        "chipBrand" : "Intel", 
+        "detail" : "9750H up to 2.3 GHz"
+    }, 
+    "weight" : 2.3, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609859312/products/SKU200500869/f0vngh2nrcaivmffliwz.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609859313/products/SKU200500869/nysmmgtyz16dnthsxugd.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609859314/products/SKU200500869/fracnpr2ifkquoshvazl.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609859316/products/SKU200500869/y9bva7obexb5xygyxftj.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff480f7c8990b2eb4d6c31e"), 
+    "details" : ObjectId("5ff480f7c8990b2eb4d6c31f"), 
+    "displaySize" : "15.6\"", 
+    "display" : "Shared memory Intel HD Graphics 620", 
+    "operating" : "Ubuntu", 
+    "disk" : "1TB HDD 5400RPM", 
+    "ram" : "1 x 4GB DDR4 2400MHz", 
+    "pin" : "4 cell Pin rời", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff48263c8990b2eb4d6c323"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "2.3 GHz up to 4.0 GHz"
+    }, 
+    "weight" : 2.8, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609859670/products/SKU200500870/tztl3pzzolohjtfzishk.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609859672/products/SKU200500870/r76dnb3xzdvolcjbntzb.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609859673/products/SKU200500870/kxmy3pme65hhqt8otmwz.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609859674/products/SKU200500870/xtvd8sntjcczac6s9qvr.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609859676/products/SKU200500870/bv03dbz0r4tqotsef4ff.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff48262c8990b2eb4d6c321"), 
+    "details" : ObjectId("5ff48262c8990b2eb4d6c322"), 
+    "displaySize" : "15.6\"", 
+    "display" : "NVIDIA GeForce GTX 1050Ti 4GB GDDR5 / Intel UHD Graphics 630", 
+    "operating" : "Ubuntu", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "2 x 4GB DDR4 2666MHz", 
+    "pin" : "4 cell 56 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff48410c8990b2eb4d6c326"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(7), 
+        "chipBrand" : "Intel", 
+        "detail" : "1.1 GHz up to 2.7 GHz"
+    }, 
+    "weight" : 1.7, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860102/products/SKU200500871/qf42s8lf3paa8hsgiabn.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860103/products/SKU200500871/tlmsyh1bhztwm1jav9on.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860105/products/SKU200500871/gglnu9fnvcrpg9hzw8gd.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860106/products/SKU200500871/lp1volkoov70dzoots5m.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860107/products/SKU200500871/i1uawe8refr8hyrvm0l2.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff4840fc8990b2eb4d6c324"), 
+    "details" : ObjectId("5ff48410c8990b2eb4d6c325"), 
+    "displaySize" : "15.6\"", 
+    "display" : "Intel UHD Graphics 605", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "1TB HDD 5400RPM", 
+    "ram" : "1 x 4GB DDR4 2133MHz", 
+    "pin" : "3 cell 41 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff485a1c8990b2eb4d6c329"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(5), 
+        "chipBrand" : "AMD", 
+        "detail" : "2.0 GHz up to 3.6 GHz"
+    }, 
+    "weight" : 1.5, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860504/products/SKU200500872/qhiwk0ahhff2ofs5b1i4.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860505/products/SKU200500872/vfjkxsy30eyqpxqpch2x.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860507/products/SKU200500872/b1eulszvaarxma28itol.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860508/products/SKU200500872/izqwxipszjlzedycunf4.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860509/products/SKU200500872/z7pqcsek0a18mnvinfvb.jpg"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff485a0c8990b2eb4d6c327"), 
+    "details" : ObjectId("5ff485a1c8990b2eb4d6c328"), 
+    "displaySize" : "14\"", 
+    "display" : "AMD Radeon Vega 8 Graphics", 
+    "operating" : "Ubuntu", 
+    "disk" : "256GB SSD M.2 NVMe", 
+    "ram" : "1 x 8GB DDR4 2400MHz", 
+    "pin" : "3 cell 45 Wh, Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4877ec8990b2eb4d6c32c"), 
+    "cpu" : {
+        "processorCount" : NumberInt(6), 
+        "series" : NumberInt(5), 
+        "chipBrand" : "AMD", 
+        "detail" : "3.0 GHz up to 4.0 GHz"
+    }, 
+    "weight" : NumberInt(2), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860982/products/SKU200500873/uz6v4exl3dybmm9yi8sl.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860983/products/SKU200500873/m2b593gdo4ky46bjnljw.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860985/products/SKU200500873/vryi6e1pzmwhtewtrklp.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860986/products/SKU200500873/myipcrfdarsp2tkyo1qq.jpg"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff4877dc8990b2eb4d6c32a"), 
+    "details" : ObjectId("5ff4877ec8990b2eb4d6c32b"), 
+    "displaySize" : "15.6\"", 
+    "display" : "NVIDIA GeForce GTX 1650 4GB GDDR6 / AMD Radeon Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "1 x 8GB DDR4 3200MHz", 
+    "pin" : "3 cell 52 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4a392b556633bf022003d"), 
+    "cpu" : {
+        "processorCount" : NumberInt(6), 
+        "series" : NumberInt(3), 
+        "chipBrand" : "Intel", 
+        "detail" : "2.6 GHz up to 5.0 GHz"
+    }, 
+    "weight" : 2.6, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609868174/products/SKU201000021/jj50gxjqudhvmu2yd9bp.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609868175/products/SKU201000021/qzotfwadfsyf88czjjlo.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609868176/products/SKU201000021/erywekq3uldvhxxddcu1.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609868177/products/SKU201000021/d0usfk7zqento7chln6u.jpg"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff4a391b556633bf022003c"), 
+    "details" : null, 
+    "displaySize" : "17.3\"", 
+    "display" : "NVIDIA GeForce GTX 1660Ti 6GB GDDR6 / Intel UHD Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "2 x 8GB DDR4 2666MHz", 
+    "pin" : "6 cell 51 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff533ce1c52e22e50004347"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(6), 
+        "chipBrand" : "AMD", 
+        "detail" : "2.3 GHz up to 4.0 GHz"
+    }, 
+    "weight" : 2.3, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905093/products/SKU200301338/ro3qtvlhlvoektnl5x9m.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905094/products/SKU200301338/lswlxituxmudqomrvuro.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905096/products/SKU200301338/foad6s7hsjywo9mslqi4.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905097/products/SKU200301338/o2wh7shmfxrjaakhtls6.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff533cd1c52e22e50004345"), 
+    "details" : ObjectId("5ff533ce1c52e22e50004346"), 
+    "displaySize" : "15.6\"", 
+    "display" : "AMD Radeon RX 5500M 4GB GDDR6 / AMD Radeon Vega 10 Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "1 x 8GB DDR4 2666MHz", 
+    "pin" : "6 cell 51 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff535311c52e22e5000434a"), 
+    "cpu" : {
+        "processorCount" : NumberInt(8), 
+        "series" : NumberInt(3), 
+        "chipBrand" : "Intel", 
+        "detail" : "2.4 GHz up to 5.6 GHz"
+    }, 
+    "weight" : 2.6, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905448/products/SKU200900244/vwwhxfalwcwmxqixenaj.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905449/products/SKU200900244/ljkasthzeq2mbhvh3aqz.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905450/products/SKU200900244/fro54ibvd7wss9glskby.jpg"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff535301c52e22e50004348"), 
+    "details" : ObjectId("5ff535301c52e22e50004349"), 
+    "displaySize" : "17.3\"", 
+    "display" : "NVIDIA GeForce RTX 2070 Super 8GB GDDR6 / Intel UHD Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "2 x 8GB DDR4 3200MHz", 
+    "pin" : "6 cell 51 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff536a11c52e22e5000434d"), 
+    "cpu" : {
+        "processorCount" : NumberInt(8), 
+        "series" : NumberInt(2), 
+        "chipBrand" : "Intel", 
+        "detail" : "2.3 GHz up to 5.1 GHz"
+    }, 
+    "weight" : 2.4, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905815/products/SKU200900245/ti87in22wk1lr6780if5.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905817/products/SKU200900245/x7ayyurrsiazwvhpg8xe.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905818/products/SKU200900245/unu0djuizupnra1enosr.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905819/products/SKU200900245/wbocbo8v9f03hn379px3.jpg"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff536a01c52e22e5000434b"), 
+    "details" : ObjectId("5ff536a01c52e22e5000434c"), 
+    "displaySize" : "15.6\"", 
+    "display" : "NVIDIA GeForce RTX 2070 Super 8GB GDDR6 / Intel UHD Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "1TB SSD M.2 NVMe", 
+    "ram" : "2 x 16GB DDR4 3200MHz", 
+    "pin" : "4 cell 100 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5380e1c52e22e50004350"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(7), 
+        "chipBrand" : "Intel", 
+        "detail" : "1.1 GHz up to 2.7 GHz"
+    }, 
+    "weight" : 1.6, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609906183/products/SKU200400301/o0jcc69dsjd7umowzzjn.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609906184/products/SKU200400301/or7oheup40xl4hypfzzp.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609906185/products/SKU200400301/rjlgnfbqy37mho91v4mr.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609906186/products/SKU200400301/vxzhcxavn9ytfbvnqqay.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff5380e1c52e22e5000434e"), 
+    "details" : ObjectId("5ff5380e1c52e22e5000434f"), 
+    "displaySize" : "14\"", 
+    "display" : "Intel UHD Graphics 605", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "256GB SSD SATA", 
+    "ram" : "1 x 4GB DDR4 2400MHz", 
+    "pin" : "2 cell 30 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5391d1c52e22e50004353"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "2.5 GHz up to 4.5 GHz"
+    }, 
+    "weight" : 2.4, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609906454/products/SKU201000985/p0f9ozdntwcb2hmevx4o.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609906455/products/SKU201000985/lisybctaks71tuxj3oda.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609906456/products/SKU201000985/xx0oju2oqhyrrxifnbzd.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609906457/products/SKU201000985/stebu0urmremf3o3f1wx.jpg"
+    ], 
+    "warranty" : NumberInt(24), 
+    "idProduct" : ObjectId("5ff5391d1c52e22e50004351"), 
+    "details" : null, 
+    "displaySize" : "15.6\"", 
+    "display" : "NVIDIA GeForce GTX 1650Ti 4GB GDDR6 / Intel UHD Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "1 x 8GB DDR4 3200MHz", 
+    "pin" : "3 cell 80 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff53bb31c52e22e50004356"), 
+    "cpu" : {
+        "processorCount" : NumberInt(2), 
+        "series" : NumberInt(0), 
+        "chipBrand" : "Intel", 
+        "detail" : "1.0 GHz up to 2.3 GHz"
+    }, 
+    "weight" : 1.5, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609907114/products/SKU1809168/n0jvr2dmwpkrabwtemqb.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609907116/products/SKU1809168/qsdzqscup0xg49eab5gf.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609907117/products/SKU1809168/ivrpxpztd4ievkvqbhxg.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609907118/products/SKU1809168/didkmr7vatkonhmeadqs.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff53bb21c52e22e50004354"), 
+    "details" : ObjectId("5ff53bb31c52e22e50004355"), 
+    "displaySize" : "14\"", 
+    "display" : "Intel HD Graphics 620", 
+    "operating" : "Ubuntu", 
+    "disk" : "256GB SSD M.2 NVMe", 
+    "ram" : "1 x 4GB Onboard DDR4 2400MHz", 
+    "pin" : "2 cell 30 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff53dfa1c52e22e50004359"), 
+    "cpu" : {
+        "processorCount" : NumberInt(2), 
+        "series" : NumberInt(4), 
+        "chipBrand" : "AMD", 
+        "detail" : "2.6 GHz up to 3.5 GHz"
+    }, 
+    "weight" : 1.6, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609907698/products/SKU200400302/phlkqxbnhkqxxnkbpehf.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609907700/products/SKU200400302/ce4dist1u55hgriqeano.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609907701/products/SKU200400302/o1qmthfzt6ai7i8eedfe.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609907702/products/SKU200400302/ss6xacakl0sprxwcxob9.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff53df91c52e22e50004357"), 
+    "details" : ObjectId("5ff53dfa1c52e22e50004358"), 
+    "displaySize" : "14\"", 
+    "display" : "AMD Radeon Vega 3 Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "256GB SSD M.2 NVMe", 
+    "ram" : "1 x 4GB DDR4 2400MHz", 
+    "pin" : "2 cell 30 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff53f6f1c52e22e5000435c"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "1.2 GHz up to 3.7 GHz"
+    }, 
+    "weight" : NumberInt(1), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908071/products/SKU200302037/grzxwnwjyhtnxqzhoovi.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908073/products/SKU200302037/ypv5hdykkof4bw5nnl7a.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908074/products/SKU200302037/yjkvjti0vjyprplafuxy.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908075/products/SKU200302037/l6z7bygegnvvtyzwkngc.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff53f6f1c52e22e5000435a"), 
+    "details" : ObjectId("5ff53f6f1c52e22e5000435b"), 
+    "displaySize" : "14\"", 
+    "display" : "Intel Iris Plus Graphics", 
+    "operating" : "Ubuntu", 
+    "disk" : "256GB SSD M.2 NVMe", 
+    "ram" : "1 x 8GB Onboard DDR4 3200MHz", 
+    "pin" : "2 cell 72 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff540981c52e22e5000435e"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(1), 
+        "chipBrand" : "Intel", 
+        "detail" : "1.6 GHz up to 3.4 GHz"
+    }, 
+    "weight" : NumberInt(1), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908372/products/SKU1808353/zxzrqpyn7nlp1dwoyluc.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908373/products/SKU1808353/t6n8vzp1efdk6b1vaonh.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908374/products/SKU1808353/jjrpic4vwlbds90qw0l2.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908375/products/SKU1808353/gmn7wmpv6gybpceqptgf.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff540981c52e22e5000435d"), 
+    "details" : null, 
+    "displaySize" : "13.3\"", 
+    "display" : "Intel UHD Graphics 620", 
+    "operating" : "Ubuntu", 
+    "disk" : "256GB SSD M.2 NVMe", 
+    "ram" : "1 x 8GB Onboard DDR4 2400MHz", 
+    "pin" : "4 cell 72 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff541e91c52e22e50004361"), 
+    "cpu" : {
+        "processorCount" : NumberInt(4), 
+        "series" : NumberInt(2), 
+        "chipBrand" : "Intel", 
+        "detail" : "1.3 GHz up to 3.9 GHz"
+    }, 
+    "weight" : 1.4, 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908705/products/SKU200302041/p2sgok0glnfz2c4qnigw.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908707/products/SKU200302041/munfljdhymlbvwlkiiaf.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908708/products/SKU200302041/ic3bz7tzjm09trihgzur.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908709/products/SKU200302041/prtscqfgnsgxxyynsefp.jpg"
+    ], 
+    "warranty" : NumberInt(12), 
+    "idProduct" : ObjectId("5ff541e91c52e22e5000435f"), 
+    "details" : ObjectId("5ff541e91c52e22e50004360"), 
+    "displaySize" : "17\"", 
+    "display" : "Intel Iris Plus Graphics", 
+    "operating" : "Windows 10 Pro 64-bit", 
+    "disk" : "512GB SSD M.2 NVMe", 
+    "ram" : "1 x 8GB Onboard DDR4 3200MHz", 
+    "pin" : "2 cell 80 Wh , Pin liền", 
+    "__v" : NumberInt(0)
+}

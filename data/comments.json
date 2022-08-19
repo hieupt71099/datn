@@ -1,0 +1,72 @@
+{ 
+    "_id" : ObjectId("600ab270462e5d07daed6671"), 
+    "time" : ISODate("2021-01-22T11:09:36.750+0000"), 
+    "author" : {
+        "name" : "Nguyễn Lê Anh Tuấn", 
+        "avt" : ""
+    }, 
+    "productId" : ObjectId("5ff3e5515239840017e2eda4"), 
+    "content" : "hihi", 
+    "rate" : NumberInt(-1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("600ab2c1462e5d07daed6672"), 
+    "time" : ISODate("2021-01-22T11:10:57.300+0000"), 
+    "author" : {
+        "name" : "Nguyễn Lê Anh Tuấn", 
+        "avt" : ""
+    }, 
+    "productId" : ObjectId("5ff3e5515239840017e2eda4"), 
+    "content" : "", 
+    "rate" : NumberInt(4), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("600ab2ca462e5d07daed6673"), 
+    "time" : ISODate("2021-01-22T11:11:06.194+0000"), 
+    "author" : {
+        "name" : "Nguyễn Lê Anh Tuấn", 
+        "avt" : ""
+    }, 
+    "productId" : ObjectId("5ff3e5515239840017e2eda4"), 
+    "content" : "ahihi", 
+    "rate" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("600ab2dd462e5d07daed6674"), 
+    "time" : ISODate("2021-01-22T11:11:25.760+0000"), 
+    "author" : {
+        "name" : "Nguyễn Lê Anh Tuấn", 
+        "avt" : ""
+    }, 
+    "productId" : ObjectId("5fef51bd396e2d00174591a7"), 
+    "content" : "", 
+    "rate" : NumberInt(4), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("600ab2e9462e5d07daed6675"), 
+    "time" : ISODate("2021-01-22T11:11:37.160+0000"), 
+    "author" : {
+        "name" : "Nguyễn Lê Anh Tuấn", 
+        "avt" : ""
+    }, 
+    "productId" : ObjectId("5fef51bd396e2d00174591a7"), 
+    "content" : "", 
+    "rate" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("600bb3bc870da80220fcec3b"), 
+    "time" : ISODate("2021-01-23T05:27:24.338+0000"), 
+    "author" : {
+        "name" : "Nguyễn Tuấn", 
+        "avt" : ""
+    }, 
+    "productId" : ObjectId("5fef51bd396e2d00174591a7"), 
+    "content" : "", 
+    "rate" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}

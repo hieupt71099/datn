@@ -94,8 +94,18 @@ const postCreateOrder = async (req, res, next) => {
   }
 };
 
+const postCreateOrderSignature = async (req, res, next) => {
+  var querystring = require('qs');
+  var signData = querystring.stringify(req.body.vnpParams, { encode: false });
+  var crypto = require("crypto");     
+  var hmac = crypto.createHmac("sha512", req.body.secretKey);
+  var signed = hmac.update(new Buffer(signData, 'utf-8')).digest("hex");
+  return res.status(200).json({ signed: signed});
+};
+
 module.exports = {
   getOrderList,
   getOrderDetails,
   postCreateOrder,
+  postCreateOrderSignature,
 };

@@ -242,6 +242,29 @@ const updateProduct = async (req, res, next) => {
   }
 };
 
+// api: Cập nhật sản phẩm
+const updateProductQuantity = async (req, res, next) => {
+  try {
+    const id = req.body.idProduct;
+    const totalMoney = req.body.totalMoney;
+    const product = await ProductModel.findOne(
+      { _id: id },
+    );
+    const amount = Math.ceil(totalMoney / (product.price - ((product.price * product.discount) / 100)))
+    const result = await ProductModel.updateOne(
+      { _id: id },
+      { $inc: { stock: amount } },
+    );
+    if (result && result.ok === 1) {
+      return res.status(200).json({ message: 'success' });
+    }
+    return res.status(200)
+  } catch (error) {
+    console.error(error);
+    return res.status(409).json({ message: 'failed' });
+  }
+};
+
 // api: đăng nhập với admin
 const postLogin = async (req, res, next) => {
   try {
@@ -326,6 +349,7 @@ module.exports = {
   getProductListByType,
   removeProduct,
   updateProduct,
+  updateProductQuantity,
   postLogin,
   getUserAdminList,
   getCustomerList,

@@ -1,4 +1,8 @@
 import { HomeOutlined } from '@ant-design/icons';
+import moment from 'moment';
+import queryString from 'query-string';
+import CryptoJS from 'crypto-js';
+import dateformat from 'dateformat';
 import {
   Avatar,
   Button,
@@ -16,10 +20,11 @@ import CartPayment from 'components/Cart/Payment';
 import constants from 'constants/index';
 import AddressUserList from 'containers/AccountPage/UserAddressList';
 import helpers from 'helpers';
-import React, { useRef, useState } from 'react';
+import React, { useRef, useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link, Redirect } from 'react-router-dom';
 import cartReducers from 'reducers/carts';
+import { ExceptionMap } from 'antd/lib/result';
 
 // fn: Lấy địa chỉ giao hàng của user theo index
 const getUserDeliveryAdd = async (userId, index = 0) => {
@@ -46,9 +51,25 @@ function PaymentPage() {
   const user = useSelector((state) => state.user);
   const [isLoading, setIsLoading] = useState(false);
   const [isOrderSuccess, setIsOrderSuccess] = useState(false);
+  const [payment, setPayment] = useState(0)
+  const [notice, setNotice] = useState(1)
+
+  useEffect(() => {
+    const fsplit = window.location.href.split("vnp_ResponseCode=");
+    if (fsplit.length > 1){
+      const ss = fsplit[1].split("&")[0];
+      if (ss === "00"){
+        setPayment(1);
+        setNotice(0);
+        addressIndex.current = window.localStorage.getItem("addr");
+        onCheckout();
+      }
+    }
+  },[]);
+
   // giá tạm tính
   const tempPrice = carts.reduce(
-    (a, b) => a + (b.price + (b.price * b.discount) / 100) * b.amount,
+    (a, b) => a + b.price * b.amount,
     0,
   );
   const transportFee =
@@ -80,6 +101,22 @@ function PaymentPage() {
     ));
   }
 
+  const sortObject = (obj) => {
+    var sorted = {};
+    var str = [];
+    var key;
+    for (key in obj){
+      if (obj.hasOwnProperty(key)) {
+      str.push(encodeURIComponent(key));
+      }
+    }
+    str.sort();
+      for (key = 0; key < str.length; key++) {
+          sorted[str[key]] = encodeURIComponent(obj[str[key]]).replace(/%20/g, "+");
+      }
+      return sorted;
+  }
+
   // event: đặt hàng
   const onCheckout = async () => {
     try {
@@ -90,8 +127,11 @@ function PaymentPage() {
         setIsLoading(false);
         return;
       }
+      else{
+        window.localStorage.setItem("addr", addressIndex.current)
+      }
       const deliveryAdd = await getUserDeliveryAdd(owner, addressIndex.current);
-      const paymentMethod = 0,
+      const paymentMethod = payment,
         orderStatus = 0,
         transportMethod = transport;
       const orderDate = new Date();
@@ -102,26 +142,79 @@ function PaymentPage() {
           orderProd: { name, price, discount, id: _id },
         };
       });
-      const response = await orderApi.postCreateOrder({
-        owner,
-        deliveryAdd,
-        paymentMethod,
-        orderStatus,
-        transportMethod,
-        transportFee,
-        orderDate,
-        productList,
-        note: note.current,
-      });
-      if (response && response.status === 200) {
-        setTimeout(() => {
-          message.success('Đặt hàng thành công', 2);
-          setIsLoading(false);
-          setIsOrderSuccess(true);
-          dispatch(cartReducers.resetCart());
-        }, 1000);
+
+      if(paymentMethod && notice){
+        let tempPrice = 0;
+        let totalDiscount = 0;
+        for (const each of productList){
+          const b = each.orderProd;
+          const amount = each.numOfProd;
+          tempPrice += (b.price + (b.price * b.discount) / 100) * amount;
+          totalDiscount += ((b.price * b.discount) / 100) * amount;
+        }
+        const transportFee =
+        tempPrice >= 1000000
+          ? 0
+          : constants.TRANSPORT_METHOD_OPTIONS.find(
+              (item) => item.value === transport,
+            ).price;
+        const finalPrice = tempPrice - totalDiscount + transportFee
+        const date = new Date();
+        const createDate = dateformat(date, 'yyyymmddHHmmss');
+        var orderId = dateformat(date, 'HHmmss');
+        var currCode = 'VND';
+        var vnp_Params = {};
+        vnp_Params['vnp_Version'] = '2.1.0';
+        vnp_Params['vnp_Command'] = 'pay';
+        vnp_Params['vnp_TmnCode'] = process.env.VNP_TMNCODE;
+        vnp_Params['vnp_Locale'] = 'vn';
+        vnp_Params['vnp_CurrCode'] = currCode;
+        vnp_Params['vnp_TxnRef'] = orderId;
+        vnp_Params['vnp_OrderInfo'] = "PTH_Store";
+        vnp_Params['vnp_OrderType'] = "billpayment";
+        vnp_Params['vnp_Amount'] = finalPrice * 100;
+        vnp_Params['vnp_ReturnUrl'] = process.env.VNP_RETURNURL;
+        vnp_Params['vnp_CreateDate'] = createDate;
+        
+        vnp_Params = sortObject(vnp_Params);
+        
+        const response = await orderApi.postCreateOrderSignature({
+          vnpParams: vnp_Params,
+          secretKey: process.env.VNP_HASHSECRET,
+        });
+        if (response && response.status === 200) {
+          vnp_Params['vnp_SecureHash'] = response.data.signed;
+          let vnpUrl = process.env.VNP_URL;
+          vnpUrl += '?' + queryString.stringify(vnp_Params, { encode: false });
+          window.location.replace(vnpUrl);
+        }
       }
+      else{
+
+        const response = await orderApi.postCreateOrder({
+          owner,
+          deliveryAdd,
+          paymentMethod,
+          orderStatus,
+          transportMethod,
+          transportFee,
+          orderDate,
+          productList,
+          note: note.current,
+        });
+        if (response && response.status === 200) {
+          setTimeout(() => {
+            message.success('Đặt hàng thành công', 2);
+            setIsLoading(false);
+            setIsOrderSuccess(true);
+            dispatch(cartReducers.resetCart());
+          }, 1000);
+        }
+
+      }
+
     } catch (error) {
+      console.log(error)
       message.error('Đặt hàng thất bại, thử lại', 3);
       setIsLoading(false);
     }
@@ -209,8 +302,11 @@ function PaymentPage() {
                   <h2 className="m-b-8">Phương thức thanh toán</h2>
                   <p>Thông tin thanh toán của bạn sẽ luôn được bảo mật</p>
                   <Row gutter={[16, 16]}>
-                    <Col span={24} md={12}>
-                      <div className="p-tb-8 p-lr-16 bg-gray item-active">
+                    <Col span={24} md={12}
+                    onClick={() =>
+                      setPayment(0)
+                    }>
+                      <div className={ !payment ? "p-tb-8 p-lr-16 bg-gray item-active" : "p-tb-8 p-lr-16 bg-gray cursor-pointer" }>
                         <b className="font-size-16px">
                           Thanh toán khi nhận hàng
                         </b>
@@ -224,12 +320,9 @@ function PaymentPage() {
                       span={24}
                       md={12}
                       onClick={() =>
-                        message.warn(
-                          'Tính năng đang được cập nhật. Rất xin lỗi quý khách vì sự bất tiện này',
-                          3,
-                        )
+                        setPayment(1)
                       }>
-                      <div className="p-tb-8 p-lr-16 bg-gray">
+                      <div className={ payment ? "p-tb-8 p-lr-16 bg-gray item-active" : "p-tb-8 p-lr-16 bg-gray cursor-pointer" }>
                         <b className="font-size-16px">
                           Thanh toán Online qua cổng VNPAY
                         </b>

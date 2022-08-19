@@ -1,0 +1,27 @@
+{ 
+    "_id" : ObjectId("600c5248a637df066120c623"), 
+    "birthday" : "1970-01-01", 
+    "gender" : true, 
+    "address" : null, 
+    "accountId" : ObjectId("600c5248a637df066120c622"), 
+    "fullName" : "Socical Network Dosky", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6010d07b755df50175036f8e"), 
+    "birthday" : "1970-01-01", 
+    "gender" : true, 
+    "address" : null, 
+    "accountId" : ObjectId("6010d07b755df50175036f8d"), 
+    "fullName" : "Nguyễn Tuấn", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6034a476b5e71500f68c532d"), 
+    "birthday" : "1970-01-01", 
+    "gender" : true, 
+    "address" : "", 
+    "accountId" : ObjectId("6034a476b5e71500f68c532c"), 
+    "fullName" : "Nguyễn Tuấn", 
+    "__v" : NumberInt(0)
+}

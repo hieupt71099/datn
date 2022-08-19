@@ -38,7 +38,7 @@ function ProductOverview(props) {
   const { catalogs, ...productRest } = products.productDetail;
   const imgList = [avt, ...catalogs];
   const rateTotal = rate.reduce((a, b) => a + b, 0);
-  const priceBefore = price + (price * discount) / 100;
+  const priceBefore = price - (price * discount) / 100;
   const rateAvg = helpers.calStar(rate);
 
   const [numOfProduct, setNumberOfProduct] = useState(1);
@@ -155,7 +155,7 @@ function ProductOverview(props) {
                 Giá: {helpers.formatProductPrice(price)}
               </span>
               <span>
-                Đã giảm thêm: {helpers.formatProductPrice(priceBefore - price)}
+                Đã giảm thêm: {helpers.formatProductPrice(Math.abs(priceBefore - price))}
                 &nbsp;
                 <span className="discount-decr"></span>
               </span>
@@ -212,7 +212,7 @@ function ProductOverview(props) {
             size="large"
             className="m-tb-16 w-100 btn-group-item"
             style={{ backgroundColor: '#3555c5' }}>
-            <a href="https://fb.com/thien.huynh.549221" target="blank">
+            <a href="https://www.facebook.com/ronaldo.pham.31" target="blank">
               <PhoneOutlined style={{ fontSize: 18 }} className="m-r-8" /> LIÊN
               HỆ
             </a>

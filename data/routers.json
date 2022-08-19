@@ -1,0 +1,105 @@
+{ 
+    "_id" : ObjectId("5ff4987975cb79027b819060"), 
+    "bandwidth" : NumberInt(0), 
+    "strong" : NumberInt(11), 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609865329/products/SKU200600639/zfjn9wevn7vr8wb1qeiv.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609865330/products/SKU200600639/kndcfhffnem1ghno3ocm.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609865332/products/SKU200600639/z7rm0noj9m7aawaidogh.webp"
+    ], 
+    "idProduct" : ObjectId("5ff4987875cb79027b81905e"), 
+    "details" : ObjectId("5ff4987875cb79027b81905f"), 
+    "numberOfPort" : "1x USB 3.0, 1x WAN Gigabit, 8x LAN Gigabit, 1 x USB Type-C 3.0", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff49c3bc8990b2eb4d6c34a"), 
+    "bandwidth" : NumberInt(0), 
+    "strong" : NumberInt(9), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609866290/products/SKU18120526/sirdfrmzislusjfypvov.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609866293/products/SKU18120526/grqeoeun4l07al6jqxbx.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff49c3bc8990b2eb4d6c348"), 
+    "details" : ObjectId("5ff49c3bc8990b2eb4d6c349"), 
+    "numberOfPort" : "1x WAN 100Mbps, 4x LAN 100Mbps", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff70dc81092ea0e7cd6252c"), 
+    "bandwidth" : NumberInt(0), 
+    "strong" : 4.5, 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610026436/products/SKU19050398/vfnspwoepqkyng1pc5ls.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610026437/products/SKU19050398/q2ye6tfjs4ydd3kkj17n.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610026438/products/SKU19050398/g8uuzxox6uhehkzatw9t.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610026439/products/SKU19050398/e4sy1aqwsgicp8jxzvor.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610026440/products/SKU19050398/jedorhbi8x36yzwjyvsb.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff70dc81092ea0e7cd6252b"), 
+    "details" : null, 
+    "numberOfPort" : "3", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7dfdbb741513f8c312fe1"), 
+    "bandwidth" : NumberInt(0), 
+    "strong" : NumberInt(9), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+
+    ], 
+    "idProduct" : ObjectId("5ff7dfdbb741513f8c312fdf"), 
+    "details" : ObjectId("5ff7dfdbb741513f8c312fe0"), 
+    "numberOfPort" : "5", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7e0b0b741513f8c312fe4"), 
+    "bandwidth" : NumberInt(0), 
+    "strong" : NumberInt(7), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080426/products/SKU18110413/fektameodfynzxs2h2eg.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080428/products/SKU18110413/wo2zkxgtfeektkbogez1.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7e0b0b741513f8c312fe2"), 
+    "details" : ObjectId("5ff7e0b0b741513f8c312fe3"), 
+    "numberOfPort" : "1x USB 2.0, 1x WAN Gigabit, 4x LAN Gigabit", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7e176b741513f8c312fe7"), 
+    "bandwidth" : NumberInt(0), 
+    "strong" : NumberInt(11), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080624/products/SKU1402116/houfeyetpm36d8kf3wjq.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080625/products/SKU1402116/rhshawlcg0cl8gx19uss.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080626/products/SKU1402116/yhrpktdwfqb6btcfi97t.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080627/products/SKU1402116/mwncmwgl576sfsflwofc.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7e176b741513f8c312fe5"), 
+    "details" : ObjectId("5ff7e176b741513f8c312fe6"), 
+    "numberOfPort" : "1x WAN 100Mbps, 4x LAN 100Mbps", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7e235b741513f8c312fe9"), 
+    "bandwidth" : NumberInt(0), 
+    "strong" : NumberInt(5), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080817/products/SKU1809048/wzlijey1uz0uov00fhfb.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080818/products/SKU1809048/h27fwwqapwc7dxxo5hyc.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080819/products/SKU1809048/dwnelhb7tdmx25yry4yq.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080821/products/SKU1809048/uyuxmh8tac1luh6a9a30.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7e235b741513f8c312fe8"), 
+    "details" : null, 
+    "numberOfPort" : "1x WAN Gigabit, 4x LAN Gigabit", 
+    "__v" : NumberInt(0)
+}

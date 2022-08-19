@@ -1,0 +1,85 @@
+{ 
+    "_id" : ObjectId("5ff48ae9c8990b2eb4d6c332"), 
+    "socketType" : NumberInt(0), 
+    "sizeStd" : NumberInt(0), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609861858/products/SKU190500857/m7dpmltblkfbyozuyzjv.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609861859/products/SKU190500857/pgkyhxlotklnlssqiv2w.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609861860/products/SKU190500857/lltzr13zeoq91tnmu9mz.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff48ae9c8990b2eb4d6c330"), 
+    "details" : ObjectId("5ff48ae9c8990b2eb4d6c331"), 
+    "chipset" : "H310", 
+    "series" : "KHT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5549f1c52e22e50004389"), 
+    "socketType" : NumberInt(0), 
+    "sizeStd" : NumberInt(0), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609913494/products/SKU19030057/oinllmpmpo2kfyihpplv.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609913495/products/SKU19030057/femuod8zalizt9og2g8p.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609913497/products/SKU19030057/svjfjliz2mzbvdzezyyz.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609913498/products/SKU19030057/domdc8cket095iu0wg2w.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff5549f1c52e22e50004387"), 
+    "details" : ObjectId("5ff5549f1c52e22e50004388"), 
+    "chipset" : "H310", 
+    "series" : "Gaming", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff555911c52e22e5000438c"), 
+    "socketType" : NumberInt(0), 
+    "sizeStd" : NumberInt(1), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609913736/products/SKU1810558/xz5ujqjl9lxvsmh5gqeg.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609913737/products/SKU1810558/oj3eoxgli1di18bu07ni.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609913738/products/SKU1810558/w3nms6iqk3mtzm5eaosm.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609913740/products/SKU1810558/exrwvwzyqfrpuskqe0jm.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff555911c52e22e5000438a"), 
+    "details" : ObjectId("5ff555911c52e22e5000438b"), 
+    "chipset" : "Z390", 
+    "series" : "PRO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5586e1c52e22e5000438f"), 
+    "socketType" : NumberInt(1), 
+    "sizeStd" : NumberInt(0), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609914467/products/SKU200500762/iunkvdzm2t03j2xizcch.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609914469/products/SKU200500762/grufmgmrrzrcfwddnzw8.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609914470/products/SKU200500762/honzfn1kwraryiqgtqkc.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609914471/products/SKU200500762/hmytujs4wttlmxsstotx.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609914473/products/SKU200500762/ymaqvm6f8z4osvxzhgty.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff5586e1c52e22e5000438d"), 
+    "details" : ObjectId("5ff5586e1c52e22e5000438e"), 
+    "chipset" : "B460", 
+    "series" : "ROG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5598f1c52e22e50004392"), 
+    "socketType" : NumberInt(0), 
+    "sizeStd" : NumberInt(0), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609914758/products/SKU19070729/zuc0zgtx8hetfocjnjqg.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609914759/products/SKU19070729/zsba41d452p29nzrl3ym.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609914761/products/SKU19070729/exshiy6dg6hh9xgg5ml5.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609914762/products/SKU19070729/gfywb3tbxs8b9org3kit.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff5598e1c52e22e50004390"), 
+    "details" : ObjectId("5ff5598f1c52e22e50004391"), 
+    "chipset" : "B365", 
+    "series" : "Gaming", 
+    "__v" : NumberInt(0)
+}

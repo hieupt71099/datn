@@ -1,0 +1,122 @@
+{ 
+    "_id" : ObjectId("5ff494b175cb79027b81905a"), 
+    "numberOfPixel" : NumberInt(20), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864358/products/SKU190904398/j4rrxa6q8wai5irseaf9.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864360/products/SKU190904398/s6jbz49uotq4zzvypkmg.webp", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864361/products/SKU190904398/c0ilzyf9bpvffivjrtfi.webp"
+    ], 
+    "idProduct" : ObjectId("5ff494b075cb79027b819058"), 
+    "details" : ObjectId("5ff494b175cb79027b819059"), 
+    "aperture" : "f/4-5.6 IS STM", 
+    "focalLength" : "25 - 300mm", 
+    "sensor" : "CMOS 20 megapixel", 
+    "resolution" : "5184 x 3888(L) 3648 x 2736(M1) 2048 x 1536(M2) 2592 x 1944(M) 640 x 480(S)", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7ef7db741513f8c312ff8"), 
+    "numberOfPixel" : NumberInt(20), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084217/products/SKU190904401/ixqzqz5nmrjt4hz788mk.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084219/products/SKU190904401/lrb7cqme2pahgwkjia7f.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084220/products/SKU190904401/bqelzfyquzapkwe3mw6k.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084221/products/SKU190904401/bn8i2uzrszqwvpi2qy1e.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7ef7db741513f8c312ff7"), 
+    "details" : null, 
+    "aperture" : "f/3.0 – f/6.9", 
+    "focalLength" : "4.3 – 43.0 mm", 
+    "sensor" : "CCD 20 MP", 
+    "resolution" : "1280 x 720 / 640 x 480 / 4:3", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f057b741513f8c312ffb"), 
+    "numberOfPixel" : NumberInt(8), 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084434/products/SKU19070071/sgpusi0j3o1xl8se9tb8.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084435/products/SKU19070071/h7dkxx3vb5kbdld9z20s.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7f056b741513f8c312ff9"), 
+    "details" : ObjectId("5ff7f056b741513f8c312ffa"), 
+    "aperture" : "f/4-5.6 IS STM", 
+    "focalLength" : "35mm", 
+    "sensor" : "CMOS APS-C 24.2MP", 
+    "resolution" : "314 x 600dpi", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f1f6b741513f8c312ffe"), 
+    "numberOfPixel" : NumberInt(24), 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084845/products/SKU190800219/nl78ghrhxeslefjjciqy.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084846/products/SKU190800219/at2ddna6vf0w4ktl9r8z.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084847/products/SKU190800219/rjbxwhrduipq9fukvtvk.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084848/products/SKU190800219/fghjj0fdt8lhyivibkn8.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084850/products/SKU190800219/f7ek69muwvjbsldt20o2.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7f1f5b741513f8c312ffc"), 
+    "details" : ObjectId("5ff7f1f6b741513f8c312ffd"), 
+    "aperture" : "f/4-6.3 IS STM", 
+    "focalLength" : "22mm", 
+    "sensor" : "CMOS APS-C 24MP", 
+    "resolution" : "6000 x 4000 (L) 3984 x 2656 (M) 2976 x 1984 (S1) 2400 x 1600 (S2) 6000 x 4000 (RAW)", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f32db741513f8c313001"), 
+    "numberOfPixel" : NumberInt(24), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085156/products/SKU190800279/aufqyjcpdb1gvdndfiyu.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085157/products/SKU190800279/gioyhil0gxmpryj4yn9v.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085158/products/SKU190800279/tnfeekohyfb3gmvytznt.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085159/products/SKU190800279/tddpuwleonlge4mcqyxp.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085160/products/SKU190800279/aj1czwloeuvz4xwulhoc.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7f32db741513f8c312fff"), 
+    "details" : ObjectId("5ff7f32db741513f8c313000"), 
+    "aperture" : "f/4-8.3 IS STM", 
+    "focalLength" : "86mm", 
+    "sensor" : "CMOS Exmor R™ loại 1/2.3\" (7,82 mm)", 
+    "resolution" : "3:2mode:16M(4.896×3.264) / 8.9M(3.648×2.432) / 4.5M(2.592×1.728);4:3mode:18M(4.896×3.672) / 10M(3.648×2.736) / 5M(2.592×1.944) / VGA;16:9mode:13M(4.896×2.752) / 7.5M(3.648×2.056) / 2.1M(1.920×1.080);1:1mode:13M(3.664×3.664) / 7.5M(2.736×2.736) / 3.7M(1.92", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f4c4b741513f8c313004"), 
+    "numberOfPixel" : NumberInt(24), 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085564/products/SKU191004599/syyyktvklfhdjlpuwnmd.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085565/products/SKU191004599/qb4yfjhuhfizrt5pxlpn.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085566/products/SKU191004599/msaml25cynb50ciuknax.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085568/products/SKU191004599/tqbq8umfhh4dhtihe1rx.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7f4c3b741513f8c313002"), 
+    "details" : ObjectId("5ff7f4c4b741513f8c313003"), 
+    "aperture" : "f/4-5.6 IS STM", 
+    "focalLength" : "8,9mm", 
+    "sensor" : "Chip GP1", 
+    "resolution" : "5760 x 2880  4992 x 2496", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f63bb741513f8c313007"), 
+    "numberOfPixel" : NumberInt(24), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085942/products/SKU191100603/zmaofs4uemgegy6eb1mp.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff7f63ab741513f8c313005"), 
+    "details" : ObjectId("5ff7f63ab741513f8c313006"), 
+    "aperture" : "f/4-4.6 IS STM", 
+    "focalLength" : "35mm", 
+    "sensor" : "X-Trans CMOS", 
+    "resolution" : "DCI 4K(4096×2160) 4K (3840×2160)  L: (3:2) 6240 x 4160 / (16:9) 6240 x 3512 / (1:1) 4160 x 4160  M: (3:2) 4416 x 2944 / (16:9) 4416 x 2488 / (1:1) 2944 x 2944 S: (3:2) 3120 x 2080 / (16:9) 3120 x 1760 / (1:1) 2080 x 2080", 
+    "__v" : NumberInt(0)
+}

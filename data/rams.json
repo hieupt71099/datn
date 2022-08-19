@@ -1,0 +1,96 @@
+{ 
+    "_id" : ObjectId("5ff48d3dc8990b2eb4d6c335"), 
+    "capacity" : NumberInt(8), 
+    "bus" : NumberInt(2666), 
+    "type" : NumberInt(2), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609862455/products/SKU160500831/pqssin7bp0vugiydes0g.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609862456/products/SKU160500831/l29p3moamktspyr7gxse.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609862457/products/SKU160500831/fxzsbwnn6dp2udirrwsq.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff48d3dc8990b2eb4d6c333"), 
+    "details" : ObjectId("5ff48d3dc8990b2eb4d6c334"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff57c764bc10c0d6c3afae5"), 
+    "capacity" : NumberInt(8), 
+    "bus" : NumberInt(2400), 
+    "type" : NumberInt(2), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+
+    ], 
+    "idProduct" : ObjectId("5ff57c754bc10c0d6c3afae4"), 
+    "details" : null, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff57d764bc10c0d6c3afae8"), 
+    "capacity" : NumberInt(32), 
+    "bus" : NumberInt(3200), 
+    "type" : NumberInt(2), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609923947/products/SKU1603124/du9lczdvse53p2gopioe.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609923949/products/SKU1603124/hj9g59kgok8nnwbueqpf.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609923950/products/SKU1603124/f2rf9tvdlpvhgp4asbd3.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff57d764bc10c0d6c3afae6"), 
+    "details" : ObjectId("5ff57d764bc10c0d6c3afae7"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff57f024bc10c0d6c3afaeb"), 
+    "capacity" : NumberInt(16), 
+    "bus" : NumberInt(2666), 
+    "type" : NumberInt(2), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+
+    ], 
+    "idProduct" : ObjectId("5ff57f024bc10c0d6c3afae9"), 
+    "details" : ObjectId("5ff57f024bc10c0d6c3afaea"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff57fe14bc10c0d6c3afaee"), 
+    "capacity" : NumberInt(4), 
+    "bus" : NumberInt(1600), 
+    "type" : NumberInt(0), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609924573/products/SKU1201389/ecocazi3cqx9gvxfh4mn.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff57fe14bc10c0d6c3afaec"), 
+    "details" : ObjectId("5ff57fe14bc10c0d6c3afaed"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff580cb4bc10c0d6c3afaf1"), 
+    "capacity" : NumberInt(8), 
+    "bus" : NumberInt(1600), 
+    "type" : NumberInt(1), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609924806/products/SKU1402753/ttckjb1fxiytlucyhtca.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff580cb4bc10c0d6c3afaef"), 
+    "details" : ObjectId("5ff580cb4bc10c0d6c3afaf0"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5822f4bc10c0d6c3afaf4"), 
+    "capacity" : NumberInt(8), 
+    "bus" : NumberInt(3600), 
+    "type" : NumberInt(2), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609925161/products/SKU200500324/v72n5onqs8xkzmng1zvm.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609925163/products/SKU200500324/gkgktjq61s3hplpf7ju3.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff5822f4bc10c0d6c3afaf2"), 
+    "details" : ObjectId("5ff5822f4bc10c0d6c3afaf3"), 
+    "__v" : NumberInt(0)
+}

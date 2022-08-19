@@ -29,6 +29,12 @@ const adminApi = {
     return axiosClient.put(url, product);
   },
 
+  // fn: Cập nhật số lượng 1 sản phẩm
+  updateProductQuantity: (idProduct, totalMoney) => {
+    const url = ADMIN_API_ENDPOINT + '/products/update/quantity';
+    return axiosClient.put(url, { idProduct, totalMoney });
+  },
+
   // fn: đăng nhập với quyền admin
   postLogin: (account) => {
     const url = ADMIN_API_ENDPOINT + '/login';

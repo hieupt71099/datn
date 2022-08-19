@@ -10,4 +10,6 @@ orderApi.get('/', orderController.getOrderDetails);
 // api: tạo 1 đơn hàng (tách nhiều sản phẩm ra mỗi sp 1 đơn)
 orderApi.post('/', orderController.postCreateOrder);
 
+orderApi.post('/signature', orderController.postCreateOrderSignature);
+
 module.exports = orderApi;

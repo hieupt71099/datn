@@ -1,0 +1,4158 @@
+{ 
+    "_id" : ObjectId("5fef51bd396e2d00174591a7"), 
+    "name" : "Laptop APPLE MacBook Pro 2020MXK32SA/A (13.3/ Retina /Intel Core i5 /8GB /256GBSSD /macOS /1.4kg)", 
+    "price" : NumberInt(34990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(12), 
+    "discount" : NumberInt(6), 
+    "rate" : [
+        NumberInt(1), 
+        NumberInt(0), 
+        NumberInt(1), 
+        NumberInt(0), 
+        NumberInt(2)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : " 61W USB‑C Power Adapter USB-C Charge Cable (2 m)"
+        }, 
+        {
+            "key" : "Tính năng", 
+            "value" : "Thanh cảm ứng Touch bar"
+        }
+    ], 
+    "code" : "SKU200500854", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609519546/products/SKU200500854/hatxo1yacmoii9t4jgkw.webp", 
+    "brand" : "Apple", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff3e5515239840017e2eda4"), 
+    "name" : "Laptop APPLE MacBook Air 2020 MGND3SA/A ( 13.3\" Apple M1/8GB/256GB SSD/macOS/1.3kg)", 
+    "price" : NumberInt(28900000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(15), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(1), 
+        NumberInt(0), 
+        NumberInt(1)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : "Không"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : " 61W USB-C Power Adapter USB-C Charge Cable (2 m)"
+        }
+    ], 
+    "code" : "SKU200500855", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609819472/products/SKU200500855/zlimj7zrkyoswesy9c8w.webp", 
+    "brand" : "Apple", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff3e7615239840017e2eda6"), 
+    "name" : "Laptop Apple MacBook Pro 2018 13.3\" MR9R2 (13.3\"/Core i5/8GB/Iris Plus 650/macOS)", 
+    "price" : NumberInt(49890000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(4), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kết nối không dây", 
+            "value" : "WiFi 802.11ac , Bluetooth 5.0"
+        }, 
+        {
+            "key" : "Bàn phím", 
+            "value" : " thường , không phím số , không đèn"
+        }, 
+        {
+            "key" : "Màu", 
+            "value" : "xám"
+        }
+    ], 
+    "code" : "SKU200500856", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609819999/products/SKU200500856/qos7n5ffrx3q2bdvzwo6.webp", 
+    "brand" : "Apple", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff42b4990cbaf010df317b0"), 
+    "name" : "Laptop ACER Swift 3 SF314-510G-5742 NX.A10SV.003 ( 14\" Full HD/Intel Core i5-1135G7/16GB/1TB SSD/Windows 10 Home 64-bit/1.4kg)", 
+    "price" : NumberInt(26900000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(15), 
+    "discount" : NumberInt(4), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kết nối không dây", 
+            "value" : "WiFi 802.11ax (Wifi 6) , Bluetooth"
+        }, 
+        {
+            "value" : "thường , không phím số , LED", 
+            "key" : "Bàn phím"
+        }
+    ], 
+    "code" : "SKU200500858", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609837371/products/SKU200500858/zf5c3indaxuor7iajlwi.webp", 
+    "brand" : "Acer", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff432571ff60f0017a7c820"), 
+    "name" : "Laptop APPLE MacBook Pro 2019 MVVJ2SA/A ( 16\" Intel Core i7/16GB/AMD Radeon Pro 5300M/macOS/2kg)", 
+    "price" : NumberInt(59900000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(8), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : "96W USB‑C Power Adapter USB-C Charge Cable (2 m)"
+        }, 
+        {
+            "key" : "Bàn phím", 
+            "value" : "thường , không phím số , LED"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }
+    ], 
+    "code" : "SKU200500857", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609839189/products/SKU200500857/okwtv7s2t6p53azvovif.webp", 
+    "brand" : "Apple", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff43608c8990b2eb4d6c303"), 
+    "name" : "Laptop ACER Nitro 5 AN515-55-77P9 NH.Q7NSV.003 ( 15.6\" Full HD/ 144Hz/Intel Core i7-10750H/8GB/512GB SSD/NVIDIA GeForce GTX 1650Ti/Windows 10 Home 64-bit/2.3kg)", 
+    "price" : NumberInt(28900000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(3), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+
+    ], 
+    "code" : "SKU200500859", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840125/products/SKU200500859/b3fvtuurw3zq4hndhtym.webp", 
+    "brand" : "Acer", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff436eb05413601ab853ad7"), 
+    "name" : "Ổ Cứng HDD Seagate Backup Plus Portable 5TB 2.5\" 3.0 (STHP5000401)", 
+    "price" : NumberInt(5390000), 
+    "type" : NumberInt(1), 
+    "stock" : NumberInt(2), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Hỗ trợ hệ điều hành", 
+            "value" : "Windows 8, Windows 8.1, Windows 10, macOS, Windows 7"
+        }
+    ], 
+    "code" : "SKU190900189", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840356/products/SKU190900189/hmftqdc4yjamacsbd9j6.webp", 
+    "brand" : "SEAGATE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4379dc8990b2eb4d6c306"), 
+    "name" : "Laptop ACER Predator Helios 300 PH315-53-770L NH.Q7XSV.002 ( 15.6\" Full HD/ 144Hz/Intel Core i7-10750H/8GB/512GB SSD/NVIDIA GeForce GTX 1660Ti/Windows 10 Home 64-bit/2.2kg)", 
+    "price" : NumberInt(37390000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(10), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+
+    ], 
+    "code" : "SKU200500860", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840531/products/SKU200500860/cqjo6uom9qukap0sajkz.webp", 
+    "brand" : "Acer", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4390dc8990b2eb4d6c309"), 
+    "name" : "Laptop Acer Aspire 5 A514-53-50JA (NX.HUSSV.002) (14\" FHD/i5-1035G1/4GB/256GB SSD/Intel UHD/Win10/1.5kg)", 
+    "price" : NumberInt(15690000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(3), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : " Bạc"
+        }, 
+        {
+            "key" : "Bàn phím", 
+            "value" : " thường , không phím số , LED"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : "Cáp + sạc"
+        }
+    ], 
+    "code" : "SKU200500861", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609840897/products/SKU200500861/edsi9apyzm7ufc3epwvc.webp", 
+    "brand" : "Acer", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff43b4cc8990b2eb4d6c30c"), 
+    "name" : "Asus ZenBook UX371EA-HL701TS", 
+    "price" : NumberInt(39990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(6), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Bàn phím", 
+            "value" : " thường , không phím số , LED"
+        }, 
+        {
+            "key" : "Bảo mật", 
+            "value" : " Khuôn mặt"
+        }, 
+        {
+            "key" : "Tính năng", 
+            "value" : " Numberpad cảm ứng tích hợp trên touchpad"
+        }
+    ], 
+    "code" : "SKU200500863", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609841473/products/SKU200500863/chnf18o06eeo18a6yjkm.webp", 
+    "brand" : "ASUS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff43df5c8990b2eb4d6c30f"), 
+    "name" : "Laptop ASUS Vivobook S533FA-BQ026T BQ026T ( 15.6\" Full HD/Intel Core i5-10210U/8GB/512GB SSD/Windows 10 Home SL 64-bit/1.7kg)", 
+    "price" : NumberInt(18790000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(9), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Trắng"
+        }, 
+        {
+            "key" : "Bàn phím", 
+            "value" : " thường , có phím số , LED"
+        }, 
+        {
+            "key" : "Bảo mật", 
+            "value" : " Vân tay"
+        }
+    ], 
+    "code" : "SKU200500864", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609842156/products/SKU200500864/g8fkqf1yzjg5n88gfwea.webp", 
+    "brand" : "ASUS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff46228c8990b2eb4d6c312"), 
+    "name" : "Laptop ASUS TUF Gaming FA706II-H7125T 90NR03P1-M02220 ( 17.3\" Full HD/ 120Hz/AMD Ryzen 5 4600H/8GB/512GB SSD/NVIDIA GeForce GTX 1650Ti/Windows 10 Home 64-bit/2.6kg)", 
+    "price" : NumberInt(21990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(12), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : " Xám"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : "Balo"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }
+    ], 
+    "code" : "SKU200500865", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609851423/products/SKU200500865/qp1t3ms2tzram9y7yavb.webp", 
+    "brand" : "ASUS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff46418c8990b2eb4d6c315"), 
+    "name" : "Laptop ASUS ZenBook 15 UX534FTC-A9168T (15\" FHD/i5-10210U/8GB/512GB SSD/GeForce GTX 1650/Win10/1.7kg)", 
+    "price" : NumberInt(28990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(1), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : " Xanh"
+        }, 
+        {
+            "key" : "Bảo mật", 
+            "value" : "Khuôn mặt"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : " Cáp USB 3.0 to RJ45"
+        }, 
+        {
+            "key" : "Tính năng", 
+            "value" : "màn hình phụ (ScreenPad) tích hợp trên TouchPad"
+        }
+    ], 
+    "code" : "SKU200500866", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609851920/products/SKU200500866/fxsfv47pyjpixab43i4n.webp", 
+    "brand" : "ASUS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff465c5c8990b2eb4d6c318"), 
+    "name" : "Laptop Dell Vostro 15 3590 3590-GRMGK2 ( 15.6\" Full HD/Intel Core i7-10510U/8GB/256GB SSD/AMD Radeon 610/Windows 10 Home SL 64-bit/2.1kg)", 
+    "price" : NumberInt(20990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(11), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Bảo mật", 
+            "value" : "Vân tay"
+        }, 
+        {
+            "key" : "Ổ đĩa quang", 
+            "value" : "DVD/CD RW"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }
+    ], 
+    "code" : "SKU200500867", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609852348/products/SKU200500867/a5d2qc99qsfxuqwoljgt.webp", 
+    "brand" : "Dell", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff47f71c8990b2eb4d6c31b"), 
+    "name" : "Laptop Dell Inspiron 15 3593-70205743 (15.6\" FHD/i5-1035G1/4GB/256GB SSD/GeForce MX230/Win10/2.2kg)", 
+    "price" : NumberInt(6790000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(10), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : "không đèn"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : "Adapter, dây nguồn"
+        }
+    ], 
+    "code" : "SKU200500868", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609858918/products/SKU200500868/rp2xrs89hfcogjfnus5c.webp", 
+    "brand" : "Dell", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff480f7c8990b2eb4d6c31e"), 
+    "name" : "Laptop Dell Inspiron 3567-N3567U (15\" FHD/i3-7020U/4GB/1TB HDD/HD 620/Ubuntu/2.3 kg)", 
+    "price" : NumberInt(9890000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(3), 
+    "discount" : NumberInt(3), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Ổ đĩa quang", 
+            "value" : " DVD/CD RW"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : " Adapter, dây nguồn"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }
+    ], 
+    "code" : "SKU200500869", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609859311/products/SKU200500869/d4cakmqelxnqpfhv4uqp.webp", 
+    "brand" : "Dell", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff48262c8990b2eb4d6c321"), 
+    "name" : "Laptop Dell G7 7588-NCR6R1 (15.6\" FHD/i5-8300H/8GB/1TB HDD/GTX 1050Ti/Free DOS/2.8 kg)", 
+    "price" : NumberInt(25990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : "không đèn"
+        }, 
+        {
+            "key" : "Bảo mật", 
+            "value" : "Vân tay"
+        }
+    ], 
+    "code" : "SKU200500870", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609859669/products/SKU200500870/c0dslnt1cjiljwqzmgir.webp", 
+    "brand" : "Dell", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4840fc8990b2eb4d6c324"), 
+    "name" : "Laptop HP 15s-du0059TU (6ZF65PA) (15\" HD/Pentium N5000/4GB/1TB HDD/UHD 605/Win10/1.7kg)", 
+    "price" : NumberInt(7990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(12), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Bạc"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : "không đèn"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : "Sạc, sách HDSD, Extend USB DVD"
+        }
+    ], 
+    "code" : "SKU200500871", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860100/products/SKU200500871/gkuaotgqcahlwbw297np.webp", 
+    "brand" : "HP", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff485a0c8990b2eb4d6c327"), 
+    "name" : "Laptop HP ProBook 445 G6-6XQ03PA (14\" FHD/R5-2500U/8GB/256GB SSD/Radeon Vega 8/Free DOS/1.5 kg)", 
+    "price" : NumberInt(17399000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(9), 
+    "discount" : NumberInt(4), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Bạc"
+        }, 
+        {
+            "value" : " thường , không phím số , không đèn", 
+            "key" : "Bàn phím"
+        }, 
+        {
+            "key" : "Bảo mật", 
+            "value" : " Vân tay"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : "không đèn"
+        }
+    ], 
+    "code" : "SKU200500872", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860502/products/SKU200500872/i6nzcihls5etlcddpv0i.webp", 
+    "brand" : "HP", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4877dc8990b2eb4d6c32a"), 
+    "name" : "Laptop HP Pavilion Gaming 15-ec1054AX 1N1H6PA ( 15.6\" Full HD/ 144Hz/AMD Ryzen 5 4600H/8GB/128GB SSD/1TB HDD/NVIDIA GeForce GTX 1650/Windows 10 Home 64-bit/2kg)", 
+    "price" : NumberInt(19990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(10), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Bàn phím", 
+            "value" : "thường , có phím số , LED"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }, 
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }
+    ], 
+    "code" : "SKU200500873", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609860981/products/SKU200500873/mxp1op4bxbxz96bla6if.webp", 
+    "brand" : "HP", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4893cc8990b2eb4d6c32d"), 
+    "name" : "Card màn hình MSI GeForce GTX 1060 6GB GDDR5 OCV2", 
+    "price" : NumberInt(7490000), 
+    "type" : NumberInt(2), 
+    "stock" : NumberInt(5), 
+    "discount" : NumberInt(4), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "VR", 
+            "value" : " hỗ trợ"
+        }, 
+        {
+            "key" : "Tản nhiệt", 
+            "value" : "Tản nhiệt 2 quạt"
+        }, 
+        {
+            "key" : "Số lượng đơn vị xử lý", 
+            "value" : "1280 CUDA cores"
+        }
+    ], 
+    "code" : "SKU170500820", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609861425/products/SKU170500820/p9ymvu98jeyqpaqydlqv.webp", 
+    "brand" : "MSI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff48ae9c8990b2eb4d6c330"), 
+    "name" : "Mainboard ASUS EX-H310M-V3 R2.0", 
+    "price" : NumberInt(1620000), 
+    "type" : NumberInt(3), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Âm thanh", 
+            "value" : " Realtek RTL8111H"
+        }, 
+        {
+            "key" : "Cổng xuất hình", 
+            "value" : "1 x VGA/D-sub"
+        }, 
+        {
+            "key" : "Số cổng USB", 
+            "value" : "2 x USB 3.1 (tối đa 4) - 4 x USB 2.0 (tối đa 6)"
+        }
+    ], 
+    "code" : "SKU190500857", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609861856/products/SKU190500857/jtwt5taofwawmb9ptzr5.webp", 
+    "brand" : "ASUS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff48d3dc8990b2eb4d6c333"), 
+    "name" : "RAM GIGABYTE 8GB DDR4-2666 (GP-GR26C16S8K1HU408 G_DDR2666)", 
+    "price" : NumberInt(1090000), 
+    "type" : NumberInt(4), 
+    "stock" : NumberInt(11), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Timing", 
+            "value" : "16"
+        }, 
+        {
+            "key" : "Voltage", 
+            "value" : "1.2V"
+        }
+    ], 
+    "code" : "SKU160500831", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609862454/products/SKU160500831/azq16nzanzxrnkrfic7e.webp", 
+    "brand" : "GIGABYTE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff48f04c8990b2eb4d6c336"), 
+    "name" : "Điện thoại Samsung Galaxy A50s 64GB (Blue)", 
+    "price" : NumberInt(7790000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(13), 
+    "discount" : NumberInt(3), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : " USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : " 2 Nano SIM"
+        }
+    ], 
+    "code" : "SKU210500811", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609862905/products/SKU210500811/qxvgwaqxqhyjfqeagfki.webp", 
+    "brand" : "Samsung", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4926fc8990b2eb4d6c339"), 
+    "name" : "Pin sạc dự phòng Xiaomi Mi 2S (10000mAh/ Bạc)", 
+    "price" : NumberInt(380000), 
+    "type" : NumberInt(6), 
+    "stock" : NumberInt(9), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Lõi pin", 
+            "value" : " Lithium polymer"
+        }, 
+        {
+            "key" : "Sạc nhanh", 
+            "value" : " QC 3.0"
+        }, 
+        {
+            "key" : "Kích thước", 
+            "value" : "147×71.2×14.2mm"
+        }
+    ], 
+    "code" : "SKU120500810", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609863783/products/SKU120500810/si0igqwglzln9odadi0w.webp", 
+    "brand" : "Xiaomi", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4934575cb79027b819055"), 
+    "name" : "Webcam Logitech Brio Ultra HD Pro", 
+    "price" : NumberInt(6000000), 
+    "type" : NumberInt(14), 
+    "stock" : NumberInt(4), 
+    "discount" : NumberInt(18), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Hỗ trợ hệ điều hành", 
+            "value" : " Windows® 7 trở lên, macOS 10.10 trở lên"
+        }, 
+        {
+            "key" : "Kích thước", 
+            "value" : " 2.7 x 10.2 x 2.7 cm"
+        }, 
+        {
+            "key" : "Tiêu cự", 
+            "value" : " Lấy nét tự động"
+        }, 
+        {
+            "key" : "Độ phân giải", 
+            "value" : "4096 x 2160"
+        }, 
+        {
+            "key" : "Khối lượng", 
+            "value" : "63 g"
+        }
+    ], 
+    "code" : "SKU190900188", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609863994/products/SKU190900188/o7xigmxzh3cnfl86casp.webp", 
+    "brand" : "Logitech", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff493b3c8990b2eb4d6c33c"), 
+    "name" : "Tai nghe Over-ear OVANN X17 (Cam,Đen)", 
+    "price" : NumberInt(250000), 
+    "type" : NumberInt(7), 
+    "stock" : NumberInt(13), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : " Cam, Đen"
+        }, 
+        {
+            "key" : "Kiểu kết nối", 
+            "value" : " Tai nghe có dây"
+        }, 
+        {
+            "key" : "Microphone", 
+            "value" : "Có"
+        }
+    ], 
+    "code" : "SKU150500857", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864108/products/SKU150500857/hzlsbctguzmqi0qo03pa.webp", 
+    "brand" : "OVAN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff494b075cb79027b819058"), 
+    "name" : "Máy ảnh Canon Ixus 285 HS (Đen)", 
+    "price" : NumberInt(5279000), 
+    "type" : NumberInt(13), 
+    "stock" : NumberInt(2), 
+    "discount" : NumberInt(12), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Điểm ảnh (image)", 
+            "value" : "Xấp xỉ 20.0 megapixels (tỉ lệ khuôn hình: 4:3)"
+        }, 
+        {
+            "key" : "Lấy nét cực tiểu", 
+            "value" : "1cm (0.4in.) - ở vô cực (W), 1,0m (3.3ft.) - ở vô cực (T)"
+        }, 
+        {
+            "key" : "Tặng kèm", 
+            "value" : "x1 Túi máy ảnh Canon IXUS, x1 Thẻ nhớ SD Sandisk 16GB"
+        }
+    ], 
+    "code" : "SKU190904398", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864356/products/SKU190904398/wb0ng3tnqb1ctkldtag0.webp", 
+    "brand" : "Canon", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff49520c8990b2eb4d6c33f"), 
+    "name" : "Bà̀n phím giả cơ Dareu LK145 Gaming", 
+    "price" : NumberInt(340000), 
+    "type" : NumberInt(8), 
+    "stock" : NumberInt(14), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kết nối", 
+            "value" : "Bàn phím có dây"
+        }, 
+        {
+            "key" : "Chuẩn kết nối", 
+            "value" : " USB 2.0"
+        }, 
+        {
+            "key" : "Kích thước", 
+            "value" : " Full size"
+        }, 
+        {
+            "key" : "Kê tay", 
+            "value" : "Có"
+        }
+    ], 
+    "code" : "SKU170500857", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864472/products/SKU170500857/evqz40a9z2sxmuwfvrge.webp", 
+    "brand" : "DAREU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4964175cb79027b81905b"), 
+    "name" : "Loa bluetooth Bose Home Speaker 500 (Bạc)", 
+    "price" : NumberInt(10900000), 
+    "type" : NumberInt(12), 
+    "stock" : NumberInt(0), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Loại kết nối của loa", 
+            "value" : "Loa không dây"
+        }, 
+        {
+            "key" : "Tính năng đặc biệt", 
+            "value" : " Âm thanh nổi xuyên tường , nhiều lựa chọn cho nội dung nhạc Với Wi-Fi, Bluetooth và Apple AirPlay 2"
+        }, 
+        {
+            "key" : "Kết nối", 
+            "value" : " Bluetooth, WiFi"
+        }
+    ], 
+    "code" : "SKU19040925", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864755/products/SKU19040925/ku0mq6tamlxx5elvhryp.webp", 
+    "brand" : "Bose", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff496c0c8990b2eb4d6c342"), 
+    "name" : "Màn Hình Dell 19.5\" E2016HV (1600x900/5ms)", 
+    "price" : NumberInt(2240000), 
+    "type" : NumberInt(9), 
+    "stock" : NumberInt(3), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Khả năng hiển thị màu sắc", 
+            "value" : "16.7 triệu màu"
+        }, 
+        {
+            "key" : "Độ tương phản tĩnh", 
+            "value" : " 600:1"
+        }, 
+        {
+            "key" : "Bề mặt", 
+            "value" : "Màn hình chống lóa"
+        }, 
+        {
+            "key" : "HDR", 
+            "value" : " không hỗ trợ"
+        }
+    ], 
+    "code" : "SKU240500857", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864882/products/SKU240500857/eokhf0l18fupz2n8nojq.webp", 
+    "brand" : "Dell", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4987875cb79027b81905e"), 
+    "name" : "Thiết bị mạng Wifi 6 TP-Link Archer AX11000", 
+    "price" : NumberInt(19900000), 
+    "type" : NumberInt(11), 
+    "stock" : NumberInt(0), 
+    "discount" : NumberInt(8), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Chuẩn kết nối", 
+            "value" : "Chuẩn kết nối"
+        }, 
+        {
+            "key" : "Ăng ten", 
+            "value" : "8x ngoài"
+        }, 
+        {
+            "key" : "Tốc độ", 
+            "value" : "2.4GHz - 1148Mbps / 5.0GHz - 4804Mbps"
+        }, 
+        {
+            "key" : "CPU/RAM/Flash", 
+            "value" : "/ RAM 1GB / Flash 512MB"
+        }, 
+        {
+            "key" : "Nguồn điện cấp", 
+            "value" : "12V DC / 5A"
+        }
+    ], 
+    "code" : "SKU200600639", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609865327/products/SKU200600639/ryxhseucprpczicblmry.webp", 
+    "brand" : "TPLINK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff499a675cb79027b819061"), 
+    "name" : "Chuột máy tính Gaming không dây E-dra EM620W (Đen)", 
+    "price" : NumberInt(599000), 
+    "type" : NumberInt(10), 
+    "stock" : NumberInt(10), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Đèn LED", 
+            "value" : "RGB"
+        }, 
+        {
+            "key" : "Kết nối", 
+            "value" : "USB 2.0, Wireless"
+        }, 
+        {
+            "key" : "Switch", 
+            "value" : " Huano"
+        }, 
+        {
+            "key" : "Độ phân giải (CPI/DPI)", 
+            "value" : "5000DPI"
+        }, 
+        {
+            "key" : "Dạng cảm biến", 
+            "value" : "Optical"
+        }, 
+        {
+            "key" : "Tên cảm biến", 
+            "value" : "PMW3325"
+        }, 
+        {
+            "key" : "Số nút bấm", 
+            "value" : "8"
+        }, 
+        {
+            "key" : "Kích thước", 
+            "value" : "125 x 64 x 40 mm"
+        }, 
+        {
+            "key" : "Khối lượng", 
+            "value" : "111 g"
+        }
+    ], 
+    "code" : "SKU200800667", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609865630/products/SKU200800667/wfusyu8xgxe3ngmjomrn.webp", 
+    "brand" : "E-Dra", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff49a64c8990b2eb4d6c345"), 
+    "name" : "Chuột gaming Razer Mamba Elite - RZ01-02560100-R3M1 (Đen)", 
+    "price" : NumberInt(2349000), 
+    "type" : NumberInt(10), 
+    "stock" : NumberInt(8), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Kết nối", 
+            "value" : " USB 2.0"
+        }, 
+        {
+            "key" : "Độ phân giải (CPI/DPI)", 
+            "value" : "16000DPI"
+        }, 
+        {
+            "key" : "Dạng cảm biến", 
+            "value" : " Optical"
+        }, 
+        {
+            "key" : "Số nút bấm", 
+            "value" : "9"
+        }, 
+        {
+            "key" : "Đèn LED", 
+            "value" : "RGB"
+        }
+    ], 
+    "code" : "SKU18120112", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609865819/products/SKU18120112/adlndthdg0znof2enmq4.webp", 
+    "brand" : "RAZER", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff49c3bc8990b2eb4d6c348"), 
+    "name" : "Router Wifi TP-Link TL-WR841HP", 
+    "price" : NumberInt(1299000), 
+    "type" : NumberInt(11), 
+    "stock" : NumberInt(10), 
+    "discount" : NumberInt(3), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Nguồn điện cấp", 
+            "value" : "12V DC / 1A"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : "Router High Power Wi-Fi tốc độ 300Mbps Cáp Ethernet RJ45 Ethernet"
+        }
+    ], 
+    "code" : "SKU18120526", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609866287/products/SKU18120526/hnr1up1ilybiserfbixj.webp", 
+    "brand" : "TPLINK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff49dadc8990b2eb4d6c34b"), 
+    "name" : "Loa bluetooth Bose Home Speaker 500 (Đen)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(12), 
+    "stock" : NumberInt(4), 
+    "discount" : NumberInt(3), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Loại kết nối của loa", 
+            "value" : " Loa không dây"
+        }, 
+        {
+            "key" : "Kết nối", 
+            "value" : "AUX, Bluetooth 4.2, WiFi"
+        }
+    ], 
+    "code" : "SKU19040924", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609866661/products/SKU19040924/rpku4oecpxo8d37vpxqn.webp", 
+    "brand" : "Bose", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff4a391b556633bf022003c"), 
+    "name" : "Laptop MSI Leopard GL75 10SDR 495VN ( 17.3\" Full HD/ 144Hz/Intel Core i7-10750H/16GB/512GB SSD/NVIDIA GeForce GTX 1660Ti/Windows 10 Home 64-bit/2.6kg)", 
+    "price" : NumberInt(32990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : " Adapter, dây nguồn"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }
+    ], 
+    "code" : "SKU201000021", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609868172/products/SKU201000021/pl3ufhmif4byhje14o7z.webp", 
+    "brand" : "MSI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff533cd1c52e22e50004345"), 
+    "name" : "Laptop MSI Alpha 15 A3DDK-212VN (15.6\" FHD 120Hz/R7 3750H/8GB/512GB SSD/Radeon RX 5500M/Win10/2.3kg)", 
+    "price" : NumberInt(23990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(6), 
+    "discount" : NumberInt(10), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : " Adapter, dây nguồn"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }
+    ], 
+    "code" : "SKU200301338", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905091/products/SKU200301338/xygvnqz3az7kxch0ovib.webp", 
+    "brand" : "MSI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff535301c52e22e50004348"), 
+    "name" : "Laptop MSI Raider GE75 10SFS-270VN màu Đen", 
+    "price" : NumberInt(66990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(17), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : " Adapter, dây nguồn"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }
+    ], 
+    "code" : "SKU200900244", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905447/products/SKU200900244/i9j4qchrvrjnzdshhwgp.webp", 
+    "brand" : "MSI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff536a01c52e22e5000434b"), 
+    "name" : "Laptop MSI Raider GE66 10SFS-474VN màu Xám Bạc", 
+    "price" : NumberInt(59990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Xám bạc"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : " Adapter, dây nguồn"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : "RGB"
+        }, 
+        {
+            "key" : "Bàn phím", 
+            "value" : " thường , không phím số , RGB"
+        }
+    ], 
+    "code" : "SKU200900245", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609905813/products/SKU200900245/hbaydnyf3fgpr3tlyyae.webp", 
+    "brand" : "MSI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5380e1c52e22e5000434e"), 
+    "name" : "Laptop Lenovo Ideapad S145-14IGM-81MW0057VN (14\" FHD/Pentium N5000/4GB/256GB SSD/UHD 605/Win10/1.6kg)", 
+    "price" : NumberInt(7990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(14), 
+    "discount" : NumberInt(7), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : " Xám"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : "Adapter, tài liệu, sách"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }, 
+        {
+            "key" : "Bàn phím", 
+            "value" : " thường , không phím số , không đèn"
+        }
+    ], 
+    "code" : "SKU200400301", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609906182/products/SKU200400301/acsdtxbwtxq8pzxspzci.webp", 
+    "brand" : "Lenovo", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5391d1c52e22e50004351"), 
+    "name" : "Laptop Lenovo Legion 5P 15IMH05 82AY003EVN ( 15.6\" Full HD/Intel Core i5-10300H/8GB/512GB SSD/NVIDIA GeForce GTX 1650Ti/Windows 10 Home 64-bit/2.4kg)", 
+    "price" : NumberInt(27990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(11), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Bàn phím", 
+            "value" : " thường , có phím số , RGB"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : " Adpapter, sách HD, phiếu bảo hành"
+        }
+    ], 
+    "code" : "SKU201000985", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609906452/products/SKU201000985/k7fqucujg8rqhiobors2.webp", 
+    "brand" : "Lenovo", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff53bb21c52e22e50004354"), 
+    "name" : "Laptop Lenovo V130-14IKB (81HQ00EQVN) (14\" HD/i3-7020U/4GB/500GB HDD/HD 620/Free DOS/1.5 kg)", 
+    "price" : NumberInt(9990000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(1), 
+    "discount" : NumberInt(10), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : " Xám"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : " Adapter, dây nguồn"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }, 
+        {
+            "key" : "Bàn phím", 
+            "value" : " thường , không phím số , không đèn"
+        }
+    ], 
+    "code" : "SKU1809168", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609907113/products/SKU1809168/yafshhwwgn5l84kuhj7b.webp", 
+    "brand" : "Lenovo", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff53df91c52e22e50004357"), 
+    "name" : "Laptop Lenovo Ideapad S145-14API-81UV008GVN (14\" FHD/R3 3200U/4GB/256GB SSD/Radeon Vega 3/Win10/1.6kg)", 
+    "price" : NumberInt(9690000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(3), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : " Adapter, tài liệu, sách"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }, 
+        {
+            "key" : "Bàn phím", 
+            "value" : " thường , không phím số , không đèn"
+        }
+    ], 
+    "code" : "SKU200400302", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609907697/products/SKU200400302/sehhjy0punalxmd6igu0.webp", 
+    "brand" : "Lenovo", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff53f6f1c52e22e5000435a"), 
+    "name" : "Laptop LG Gram 14ZD90N-V.AX53A5 (14\" FHD/i5-1035G7/8GB/256GB SSD/Intel Iris Plus/Free DOS/1kg)", 
+    "price" : NumberInt(29000000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(10), 
+    "discount" : NumberInt(3), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Trắng"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : "Adapter, dây nguồn, RJ45 Ethernet"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }, 
+        {
+            "key" : "Bàn phím", 
+            "value" : " thường , không phím số , LED"
+        }, 
+        {
+            "key" : "Bảo mật", 
+            "value" : " Vân tay"
+        }
+    ], 
+    "code" : "SKU200302037", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908070/products/SKU200302037/wio94z2x9oivnffdtnw6.webp", 
+    "brand" : "LG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff540981c52e22e5000435d"), 
+    "name" : "Laptop LG Gram 13ZD980-G.AX52A5 (13.3\" FHD/i5-8250U/8GB/UHD 620/Free DOS/1 kg)", 
+    "price" : NumberInt(27500000), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(9), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Trắng"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : "USB Type C to LAN 100 Mbps"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }, 
+        {
+            "key" : "Bàn phím", 
+            "value" : " thường , có phím số , LED"
+        }
+    ], 
+    "code" : "SKU1808353", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908371/products/SKU1808353/onddo3ent9jsv3xbthls.webp", 
+    "brand" : "LG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff541e91c52e22e5000435f"), 
+    "name" : "Laptop LG Gram 17Z90N-V.AH75A5 (17\" WQXGA/i7-1065G7/8GB/512GB SSD/Intel Iris Plus/Win10/1.4kg)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(0), 
+    "stock" : NumberInt(12), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : " Xám"
+        }, 
+        {
+            "key" : "Phụ kiện đi kèm", 
+            "value" : " Adapter, dây nguồn, RJ45 Ethernet"
+        }, 
+        {
+            "key" : "Đèn LED trên máy", 
+            "value" : " không đèn"
+        }, 
+        {
+            "key" : "Bàn phím", 
+            "value" : " thường , có phím số , LED"
+        }, 
+        {
+            "key" : "Bảo mật", 
+            "value" : " Vân tay"
+        }
+    ], 
+    "code" : "SKU200302041", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609908704/products/SKU200302041/wunodp877psot3kv9jwk.webp", 
+    "brand" : "LG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5433e1c52e22e50004362"), 
+    "name" : "Ổ cứng SSD Kingston 256GB 2.5\" Sata (SKC600/256G)", 
+    "price" : NumberInt(1190000), 
+    "type" : NumberInt(1), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(4), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Bộ nhớ NAND", 
+            "value" : " 3D-NAND"
+        }
+    ], 
+    "code" : "SKU191100747", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609909049/products/SKU191100747/tzhusiqlonvwi1ywpfzk.webp", 
+    "brand" : "KINGSTON", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff544ac1c52e22e50004365"), 
+    "name" : "Ổ cứng gắn trong/ SSD WD Black 1TB SN850 NVMe M.2 2280 (WDS100T1X0E-00AFY0)", 
+    "price" : NumberInt(6490000), 
+    "type" : NumberInt(1), 
+    "stock" : NumberInt(4), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Bộ nhớ NAND", 
+            "value" : "3D-NAND"
+        }
+    ], 
+    "code" : "SKU201100383", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609909417/products/SKU201100383/dzcmvg71mg92clyea6n9.webp", 
+    "brand" : "WD", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff545b61c52e22e50004367"), 
+    "name" : "Ổ cứng SSD Samsung 970 Evo Plus 250GB M.2 NVMe - MZ-V7S250BW", 
+    "price" : NumberInt(2390000), 
+    "type" : NumberInt(1), 
+    "stock" : NumberInt(11), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Bộ nhớ NAND", 
+            "value" : "3D-NAND"
+        }
+    ], 
+    "code" : "SKU19030375", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609909677/products/SKU19030375/qzbwxm14sfpcqpt9q1hu.webp", 
+    "brand" : "SAMSUNG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5492b1c52e22e5000436a"), 
+    "name" : "Ổ cứng di động HDD Lacie Birthday Mobile Drive 1TB USB 3.0 (STHY1000800) (Xám)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(1), 
+    "stock" : NumberInt(4), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+
+    ], 
+    "code" : "SKU200501165", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609910564/products/SKU200501165/xnwchus6kme4uvhnui5d.webp", 
+    "brand" : "LACIE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff54a221c52e22e5000436d"), 
+    "name" : "Ổ cứng SSD Transcend 370S 128GB 2.5\" SATA 3", 
+    "price" : NumberInt(740000), 
+    "type" : NumberInt(1), 
+    "stock" : NumberInt(2), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Trắng"
+        }
+    ], 
+    "code" : "SKU1501931", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609910810/products/SKU1501931/b919g5l8nljfzbatfvvj.webp", 
+    "brand" : "TRANSCEND", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff54b461c52e22e50004370"), 
+    "name" : "Ổ cứng HDD Seagate 2TB 3.5\" SATA 3 - ST2000DM008", 
+    "price" : NumberInt(1650000), 
+    "type" : NumberInt(1), 
+    "stock" : NumberInt(4), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Trắng"
+        }, 
+        {
+            "key" : "Cache", 
+            "value" : "256MB"
+        }
+    ], 
+    "code" : "SKU18120128", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609911103/products/SKU18120128/esan2jdhzde668q357g8.webp", 
+    "brand" : "SEAGATE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff54c161c52e22e50004373"), 
+    "name" : "ổ cứng HDD NAS WD Red 4TB Sata3 5400rpm (WD40EFAX)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(1), 
+    "stock" : NumberInt(8), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đỏ"
+        }, 
+        {
+            "key" : "Cache", 
+            "value" : "256MB"
+        }
+    ], 
+    "code" : "SKU200400114", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609911313/products/SKU200400114/wyyy5falhjqqyrdtfkjl.webp", 
+    "brand" : "WD", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff54d471c52e22e50004376"), 
+    "name" : "Card màn hình MSI GeForce GTX 1060 6GB GDDR5 OCV2", 
+    "price" : NumberInt(7490000), 
+    "type" : NumberInt(2), 
+    "stock" : NumberInt(2), 
+    "discount" : NumberInt(10), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "GPU", 
+            "value" : " GeForce GTX 1060"
+        }, 
+        {
+            "key" : "Tản nhiệt", 
+            "value" : " Tản nhiệt 2 quạt"
+        }, 
+        {
+            "key" : "VR", 
+            "value" : " hỗ trợ"
+        }
+    ], 
+    "code" : "SKU1704793", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609911613/products/SKU1704793/vh1ozxyxkjmbzqbzokxb.webp", 
+    "brand" : "MSI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff54e021c52e22e50004379"), 
+    "name" : "Card màn hình GIGABYTE GeForce GTX 1650 4GB GDDR6", 
+    "price" : NumberInt(3990000), 
+    "type" : NumberInt(2), 
+    "stock" : NumberInt(5), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Tản nhiệt", 
+            "value" : "Tản nhiệt 1 quạt"
+        }, 
+        {
+            "key" : "Số lượng đơn vị xử lý", 
+            "value" : "896 CUDA cores"
+        }
+    ], 
+    "code" : "SKU200700334", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609911803/products/SKU200700334/t8oqqtgmv9u7gebyqvfl.webp", 
+    "brand" : "GIGABYTE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff54ef21c52e22e5000437b"), 
+    "name" : "Card màn hình ASUS TUF Gaming X3 Radeon RX 5700 OC 8GB GDDR6", 
+    "price" : NumberInt(11440000), 
+    "type" : NumberInt(2), 
+    "stock" : NumberInt(10), 
+    "discount" : NumberInt(10), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Đèn LED", 
+            "value" : "Có"
+        }, 
+        {
+            "key" : "Số lượng đơn vị xử lý", 
+            "value" : " 2304 Stream Processors"
+        }, 
+        {
+            "key" : "Tản nhiệt", 
+            "value" : " Tản nhiệt 3 quạt"
+        }, 
+        {
+            "key" : "VR", 
+            "value" : " không hỗ trợ"
+        }
+    ], 
+    "code" : "SKU190900115", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609912039/products/SKU190900115/smzgu05ikqhctghfu4gp.webp", 
+    "brand" : "ASUS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff550d31c52e22e5000437e"), 
+    "name" : "Card màn hình GALAX GeForce RTX 2080Ti 11GB GDDR6 HOF (28IULBUCV6DH)", 
+    "price" : NumberInt(46990000), 
+    "type" : NumberInt(2), 
+    "stock" : NumberInt(1), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Số lượng đơn vị xử lý", 
+            "value" : " 4352 CUDA cores"
+        }, 
+        {
+            "key" : "Tản nhiệt", 
+            "value" : "Tản nhiệt 3 quạt"
+        }, 
+        {
+            "key" : "VR", 
+            "value" : "Hỗ trợ"
+        }, 
+        {
+            "key" : "Đèn LED", 
+            "value" : "RGB"
+        }
+    ], 
+    "code" : "SKU19040900", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609912521/products/SKU19040900/fb8u33jwfw28xiyqlbjp.webp", 
+    "brand" : "GALAX", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff551bc1c52e22e50004381"), 
+    "name" : "Card màn hình NVIDIA Quadro P2200 5GB GDDR5X", 
+    "price" : NumberInt(11299000), 
+    "type" : NumberInt(2), 
+    "stock" : NumberInt(12), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Số lượng đơn vị xử lý", 
+            "value" : "1280 CUDA cores"
+        }, 
+        {
+            "key" : "Tản nhiệt", 
+            "value" : "Tản nhiệt 1 quạt"
+        }
+    ], 
+    "code" : "SKU190800432", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609912757/products/SKU190800432/btgr1lizhduyp9mfcnle.webp", 
+    "brand" : "NVIDIA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5532d1c52e22e50004384"), 
+    "name" : "Card màn hình GALAX GeForce GT 1030 2GB SDDR4 (30NPK4HVQ4BG)", 
+    "price" : NumberInt(1950000), 
+    "type" : NumberInt(2), 
+    "stock" : NumberInt(5), 
+    "discount" : NumberInt(15), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Số lượng đơn vị xử lý", 
+            "value" : " 384 CUDA cores"
+        }, 
+        {
+            "key" : "Tản nhiệt", 
+            "value" : "Tản nhiệt 1 quạt"
+        }, 
+        {
+            "key" : "VR", 
+            "value" : " không hỗ trợ"
+        }
+    ], 
+    "code" : "SKU1805455", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609913124/products/SKU1805455/doktbhofqxbsghj0ql75.webp", 
+    "brand" : "GALAX", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5549f1c52e22e50004387"), 
+    "name" : "Mainboard MSI H310M PRO-VDH PLUS", 
+    "price" : NumberInt(1690000), 
+    "type" : NumberInt(3), 
+    "stock" : NumberInt(6), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Khe RAM tối đa", 
+            "value" : " 2 khe"
+        }, 
+        {
+            "key" : "Kiểu RAM hỗ trợ", 
+            "value" : "DDR4"
+        }
+    ], 
+    "code" : "SKU19030057", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609913492/products/SKU19030057/xtz7sjrosgymjfehd594.webp", 
+    "brand" : "MSI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff555911c52e22e5000438a"), 
+    "name" : "Mainboard ASRock Z390 Pro4", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(3), 
+    "stock" : NumberInt(3), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Khe RAM tối đa", 
+            "value" : " 4 khe"
+        }, 
+        {
+            "key" : "Kiểu RAM hỗ trợ", 
+            "value" : " DDR4"
+        }, 
+        {
+            "key" : "Hỗ trợ bộ nhớ tối đa", 
+            "value" : " 64GB"
+        }
+    ], 
+    "code" : "SKU1810558", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609913735/products/SKU1810558/fq9qx1f3ypk2tmeqeow2.webp", 
+    "brand" : "ASROCK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5586e1c52e22e5000438d"), 
+    "name" : "Mainboard ASUS ROG STRIX B460-G GAMING", 
+    "price" : NumberInt(3690000), 
+    "type" : NumberInt(3), 
+    "stock" : NumberInt(13), 
+    "discount" : NumberInt(20), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Khe RAM tối đa", 
+            "value" : " 4 khe"
+        }, 
+        {
+            "key" : "Kiểu RAM hỗ trợ", 
+            "value" : "DDR4"
+        }, 
+        {
+            "key" : "Hỗ trợ bộ nhớ tối đa", 
+            "value" : "128GB"
+        }
+    ], 
+    "code" : "SKU200500762", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609914466/products/SKU200500762/fut6ueo2k88wqzan5rd2.webp", 
+    "brand" : "ASUS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5598e1c52e22e50004390"), 
+    "name" : "Mainboard GIGABYTE B365M GAMING HD", 
+    "price" : NumberInt(1750000), 
+    "type" : NumberInt(3), 
+    "stock" : NumberInt(2), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Khe RAM tối đa", 
+            "value" : "2 khe"
+        }, 
+        {
+            "key" : "Kiểu RAM hỗ trợ", 
+            "value" : "DDR4"
+        }, 
+        {
+            "key" : "Hỗ trợ bộ nhớ tối đa", 
+            "value" : " 32GB"
+        }
+    ], 
+    "code" : "SKU19070729", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609914757/products/SKU19070729/txajhauyo4xarmjclj8d.webp", 
+    "brand" : "GIGABYTE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff57c754bc10c0d6c3afae4"), 
+    "name" : "RAM server Kingston KVR24E17S8/8MA (1x8GB) DDR4 ECC 2400MHz", 
+    "price" : NumberInt(2280000), 
+    "type" : NumberInt(4), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Timing", 
+            "value" : " 17"
+        }, 
+        {
+            "key" : "ECC", 
+            "value" : "ECC"
+        }
+    ], 
+    "code" : "SKU1704547", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609923701/products/SKU1704547/ehzxu4c9arm1onu9cl5n.webp", 
+    "brand" : "KINGSTON", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff57d764bc10c0d6c3afae6"), 
+    "name" : "RAM desktop G.SKILL Trident Z F4-3200C16D-32GTZ (2x16GB) DDR4 3200MHz", 
+    "price" : NumberInt(4390000), 
+    "type" : NumberInt(4), 
+    "stock" : NumberInt(4), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Timing", 
+            "value" : "16"
+        }
+    ], 
+    "code" : "SKU1603124", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609923946/products/SKU1603124/ob7j5lytoloqzbj7andq.webp", 
+    "brand" : "G.SKILL", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff57f024bc10c0d6c3afae9"), 
+    "name" : "RAM desktop KINGMAX Zeus Dragon (1x16GB) DDR4 2666MHz", 
+    "price" : NumberInt(1990000), 
+    "type" : NumberInt(4), 
+    "stock" : NumberInt(14), 
+    "discount" : NumberInt(8), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Timing", 
+            "value" : "17"
+        }
+    ], 
+    "code" : "SKU1806047", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609924351/products/SKU1806047/nwixptrygkddofrq1oth.webp", 
+    "brand" : "KINGMAX", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff57fe14bc10c0d6c3afaec"), 
+    "name" : "RAM desktop CORSAIR CMZ4GX3M1A (1x4GB) DDR3 1600MHz", 
+    "price" : NumberInt(990000), 
+    "type" : NumberInt(4), 
+    "stock" : NumberInt(9), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Timing", 
+            "value" : "9"
+        }
+    ], 
+    "code" : "SKU1201389", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609924572/products/SKU1201389/kbs1i8yw1w2wucrxvpwl.webp", 
+    "brand" : "CORSAIR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff580cb4bc10c0d6c3afaef"), 
+    "name" : "RAM laptop KINGMAX (1x8GB) DDR3L 1600MHz", 
+    "price" : NumberInt(970000), 
+    "type" : NumberInt(4), 
+    "stock" : NumberInt(6), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Timing", 
+            "value" : "9"
+        }
+    ], 
+    "code" : "SKU1402753", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609924805/products/SKU1402753/jcgsnmt3wu644nwrgtcd.webp", 
+    "brand" : "KINGMAX", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5822f4bc10c0d6c3afaf2"), 
+    "name" : "RAM desktop GIGABYTE AORUS RGB Memory (2 x 8GB) DDR4 3600MHz (GP-AR36C18S8K2HU416RD)", 
+    "price" : NumberInt(3490000), 
+    "type" : NumberInt(4), 
+    "stock" : NumberInt(3), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Timing", 
+            "value" : "18"
+        }, 
+        {
+            "key" : "Voltage", 
+            "value" : "1.2V"
+        }
+    ], 
+    "code" : "SKU200500324", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609925160/products/SKU200500324/bfry9jzfm9szi01cofu3.webp", 
+    "brand" : "GIGABYTE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff584684bc10c0d6c3afaf5"), 
+    "name" : "iPhone 12 Mini 64GB Blue", 
+    "price" : NumberInt(21990000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(15), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Loại sim", 
+            "value" : "2 SIM (nano-SIM và eSIM)"
+        }, 
+        {
+            "key" : "Cổng sạc", 
+            "value" : " Lightning"
+        }
+    ], 
+    "code" : "SKU201000631", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609925725/products/SKU201000631/bkn2mprf1nwjdldzcy50.webp", 
+    "brand" : "Apple", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5d8af491ee60bf4e0be94"), 
+    "name" : "Điện Thoại Di Động iPhone SE BLACK 128GB (MHGT3VN/A)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : "Lightning"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : "nano-SIM và eSIM"
+        }
+    ], 
+    "code" : "SKU201100338", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609947308/products/SKU201100338/ovmmxrbce6gby6thejfd.webp", 
+    "brand" : "Apple", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5d9d0491ee60bf4e0be96"), 
+    "name" : "iPhone 12 Pro Max 256GB Silver", 
+    "price" : NumberInt(37990000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(5), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : " Lightning"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : " Nano-SIM và eSIM"
+        }
+    ], 
+    "code" : "SKU201000660", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609947594/products/SKU201000660/z0ekk3r9e1q1u67rqvyk.webp", 
+    "brand" : "Apple", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5daef491ee60bf4e0be99"), 
+    "name" : "Điện Thoại Di Động Samsung Galaxy Note 10 (Aura Glow)", 
+    "price" : NumberInt(22990000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(3), 
+    "discount" : NumberInt(3), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : " USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : " 2 Nano SIM"
+        }
+    ], 
+    "code" : "SKU190800499", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609947877/products/SKU190800499/aikzz6d8bwspad9zzlub.webp", 
+    "brand" : "Samsung", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5dc25491ee60bf4e0be9c"), 
+    "name" : "Điện Thoại Di Động Samsung Galaxy Z Flip, 256GB (SM-F700FZPDXEV) (Tím)", 
+    "price" : NumberInt(36000000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(5), 
+    "discount" : NumberInt(8), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : " USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : " 1 eSIM & 1 Nano SIM"
+        }
+    ], 
+    "code" : "SKU200200641", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948186/products/SKU200200641/j1thz9n7ajrpllldsmly.webp", 
+    "brand" : "Samsung", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5dd58491ee60bf4e0be9f"), 
+    "name" : "Điện Thoại Di Động Samsung Galaxy A20s (Đỏ)", 
+    "price" : NumberInt(4390000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(10), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : " USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : " 2 Nano SIM"
+        }
+    ], 
+    "code" : "SKU191004603", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948495/products/SKU191004603/ujbbif2lguldl1gq54tv.webp", 
+    "brand" : "Samsung", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5dea6491ee60bf4e0bea2"), 
+    "name" : "Điện Thoại Di Động Oppo Reno 2 F (Xanh)", 
+    "price" : NumberInt(8990000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(13), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : "USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : "2 Nano SIM"
+        }
+    ], 
+    "code" : "SKU200100156", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609948828/products/SKU200100156/zzs7tjbdakhrk6c1lkge.webp", 
+    "brand" : "Oppo", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5dfad491ee60bf4e0bea5"), 
+    "name" : "Điện Thoại Di Động Oppo A1K CPH1923 (Đen)", 
+    "price" : NumberInt(3190000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(10), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : "Micro USB"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : "2 Nano Sim"
+        }
+    ], 
+    "code" : "SKU190800471", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609949085/products/SKU190800471/jhgtyxtbzubiiunfvmzl.webp", 
+    "brand" : "Oppo", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e0b9491ee60bf4e0bea8"), 
+    "name" : "Điện Thoại Di Động Oppo Reno 2 (Đen)", 
+    "price" : NumberInt(14990000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(11), 
+    "discount" : NumberInt(3), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : " USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : "2 Nano SIM"
+        }
+    ], 
+    "code" : "SKU200100158", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609949359/products/SKU200100158/jwmkew0sz0f3j0zzn3xa.webp", 
+    "brand" : "Oppo", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e26f491ee60bf4e0beab"), 
+    "name" : "Điện Thoại Di Động Realme 5 (3GB/64GB) (Tím)", 
+    "price" : NumberInt(3990000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(4), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : "Micro USB"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : "Nano-SIM"
+        }
+    ], 
+    "code" : "SKU191007000", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609949801/products/SKU191007000/r3lb61ea00hzsavyunnr.webp", 
+    "brand" : "Realme", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e38b491ee60bf4e0beae"), 
+    "name" : "Điện thoại Realme 5S 4GB/128GB (Đỏ)", 
+    "price" : NumberInt(4990000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(15), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : "Micro USB"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : " 2 Nano SIM"
+        }
+    ], 
+    "code" : "SKU200400120", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609950083/products/SKU200400120/b2ovdvha8qoxxdkmo5m1.webp", 
+    "brand" : "Realme", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e497491ee60bf4e0beb1"), 
+    "name" : "Điện Thoại Di Động Realme 5 Pro (4GB/128GB) (Xanh Đại Dương)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(4), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : "USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : " Nano-SIM"
+        }
+    ], 
+    "code" : "SKU191006998", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609950354/products/SKU191006998/hlqqjo55drwa3vcfpi8s.webp", 
+    "brand" : "Realme", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e644491ee60bf4e0beb4"), 
+    "name" : "Điện Thoại Di Động Xiaomi Redmi Note 9 4GB/128GB (Xám)", 
+    "price" : NumberInt(4990000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(10), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : "USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : " 2 Nano-SIM"
+        }
+    ], 
+    "code" : "SKU200700156", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609950779/products/SKU200700156/kxhmqg0ohz8asvpr6ggt.webp", 
+    "brand" : "Xiaomi", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e73e491ee60bf4e0beb7"), 
+    "name" : "Điện Thoại Di Động Xiaomi Mi Note 10 Pro (Đen)", 
+    "price" : NumberInt(14990000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(9), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : "USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : " 2 Nano SIM"
+        }
+    ], 
+    "code" : "SKU200100161", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609951030/products/SKU200100161/hdfammxa74qeh8mf3j1k.webp", 
+    "brand" : "Xiaomi", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5e934491ee60bf4e0beba"), 
+    "name" : "Điện Thoại Di Động Xiaomi Poco F2 Pro 6GB/128GB (Trắng)", 
+    "price" : NumberInt(12490000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(8), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : " USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : " 2 Nano-SIM"
+        }
+    ], 
+    "code" : "SKU200700137", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609951531/products/SKU200700137/jjny848f7tkgh7tjkx5f.webp", 
+    "brand" : "Xiaomi", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5ea2f491ee60bf4e0bebd"), 
+    "name" : "Điện Thoại Di Động Nokia 2.2 TA-1188 DS 2/16 VN Black", 
+    "price" : NumberInt(1640000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(6), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : " Micro USB"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : " 2 Nano Sim"
+        }
+    ], 
+    "code" : "SKU190800143", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609951781/products/SKU190800143/jfr2ms2arscmcqujvaxu.webp", 
+    "brand" : "Nokia", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5eb5e491ee60bf4e0bec0"), 
+    "name" : "Điện thoại di động Nokia C2 TA-1204 DS 1/16 VN Charcoal", 
+    "price" : NumberInt(1490000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(3), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : "Micro USB"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : "2 Nano SIM"
+        }
+    ], 
+    "code" : "SKU200400658", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952085/products/SKU200400658/mqq9iakbvcfordzxvoov.webp", 
+    "brand" : "Nokia", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5ecad491ee60bf4e0bec3"), 
+    "name" : "Điện Thoại Di Động Huawei P30 Lite (Xanh)", 
+    "price" : NumberInt(5490000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(2), 
+    "discount" : NumberInt(20), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : "USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : "2 Nano Sim"
+        }
+    ], 
+    "code" : "SKU190800194", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952423/products/SKU190800194/du9efs1pgv6n1nq7mcvx.webp", 
+    "brand" : "Huawei", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5edbf491ee60bf4e0bec6"), 
+    "name" : "Điện Thoại Di Động Vivo S1 (Đen)", 
+    "price" : NumberInt(5990000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(12), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : "USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : " 2 Nano SIM"
+        }
+    ], 
+    "code" : "SKU200100162", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952695/products/SKU200100162/pyhtr065uuks8rky5uzi.webp", 
+    "brand" : "Vivo", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff5ee77491ee60bf4e0bec9"), 
+    "name" : "Điện Thoại Di Động Vivo S1 Pro (Trắng)", 
+    "price" : NumberInt(6900000), 
+    "type" : NumberInt(5), 
+    "stock" : NumberInt(5), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Cổng sạc", 
+            "value" : "USB Type-C"
+        }, 
+        {
+            "key" : "Loại sim", 
+            "value" : "2 Nano SIM"
+        }
+    ], 
+    "code" : "SKU200100165", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609952882/products/SKU200100165/q2fjkjlecb6pjrooejop.webp", 
+    "brand" : "Vivo", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6922d8537f205601be59a"), 
+    "name" : "Pin sạc dự phòng Pisen Meatball II 10050mAh (Phiên bản mới - B) (Cam)", 
+    "price" : NumberInt(619000), 
+    "type" : NumberInt(6), 
+    "stock" : NumberInt(8), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Sạc nhanh", 
+            "value" : "Có"
+        }, 
+        {
+            "key" : "Kích thước", 
+            "value" : " 9.8 x 6.76 x 2.4 cm"
+        }
+    ], 
+    "code" : "SKU19060099", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609994789/products/SKU19060099/kikw9hwxxtkt6m3xa2jr.webp", 
+    "brand" : "PISEN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6931d8537f205601be59d"), 
+    "name" : "Pin Sạc Dự Phòng Remax RPL-15 8.000mAh (Màu Ngẫu Nhiên)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(6), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kích thước", 
+            "value" : " 95 x 65 x 23 mm"
+        }, 
+        {
+            "key" : "Tính năng", 
+            "value" : " Vỏ nhựa cao cấp"
+        }
+    ], 
+    "code" : "SKU200600153", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995029/products/SKU200600153/u4zsecmy7qs7vfi31dmd.webp", 
+    "brand" : "Remax", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff693f68537f205601be5a0"), 
+    "name" : "Pin sạc dự phòng Xiaomi Redmi 20000Mah Quick Charge VXN4265CN (Trắng)", 
+    "price" : NumberInt(699000), 
+    "type" : NumberInt(6), 
+    "stock" : NumberInt(4), 
+    "discount" : NumberInt(3), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kích thước", 
+            "value" : "154 x 73.6 x 27.3mm"
+        }, 
+        {
+            "key" : "Sạc nhanh", 
+            "value" : "Có"
+        }
+    ], 
+    "code" : "SKU201101085", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995252/products/SKU201101085/mj8i9eopbq8a2slprk1g.webp", 
+    "brand" : "Xiaomi", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff694f48537f205601be5a2"), 
+    "name" : "Pin sạc dự phòng Energizer 10.000mAh/ 3.7V Li-Polymer - XP10002ABK (Đen)", 
+    "price" : NumberInt(1100000), 
+    "type" : NumberInt(6), 
+    "stock" : NumberInt(8), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Tính năng", 
+            "value" : "Tích hợp công nghệ Auto voltage sensing"
+        }, 
+        {
+            "key" : "Kích thước", 
+            "value" : "142.6 x 65.6 x 16.2 mm"
+        }
+    ], 
+    "code" : "SKU19030262", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995500/products/SKU19030262/b6g7ulpglrtuxsh1qh1n.webp", 
+    "brand" : "Energizer", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff695f48537f205601be5a5"), 
+    "name" : "Tai nghe Gigabyte AORUS H5 RGB", 
+    "price" : NumberInt(2065000), 
+    "type" : NumberInt(7), 
+    "stock" : NumberInt(11), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Khối lượng", 
+            "value" : " 0.35 kg"
+        }, 
+        {
+            "key" : "Đèn LED", 
+            "value" : "RGB"
+        }, 
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen đỏ"
+        }
+    ], 
+    "code" : "SKU1704596", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609995755/products/SKU1704596/mfinjal0gharuokkjcqr.webp", 
+    "brand" : "GIGABYTE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff697638537f205601be5a7"), 
+    "name" : "Tai nghe Bluetooth Bose Headphone 700 - Bạc", 
+    "price" : NumberInt(10990000), 
+    "type" : NumberInt(7), 
+    "stock" : NumberInt(6), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Bạc"
+        }, 
+        {
+            "key" : "Microphone", 
+            "value" : "Có"
+        }, 
+        {
+            "key" : "Khối lượng", 
+            "value" : "250g"
+        }
+    ], 
+    "code" : "SKU191101519", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996124/products/SKU191101519/cpbamp6u3hjlr376mfax.webp", 
+    "brand" : "Bose", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6983b8537f205601be5aa"), 
+    "name" : "Tai nghe không dây In-ear JBL T110BT (Hồng)", 
+    "price" : NumberInt(890000), 
+    "type" : NumberInt(7), 
+    "stock" : NumberInt(9), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Trở kháng", 
+            "value" : " 16 ohms"
+        }, 
+        {
+            "key" : "Màu sắc", 
+            "value" : "Hồng"
+        }, 
+        {
+            "key" : "Microphone", 
+            "value" : "Có"
+        }
+    ], 
+    "code" : "SKU19040417", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996339/products/SKU19040417/xwa3fbiyrjxt064tmzok.webp", 
+    "brand" : "JBL", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff699cd8537f205601be5ad"), 
+    "name" : "Tai nghe Beats Solo Pro Wireless Noise Cancelling Headphones - More Matte Collection - Red, MRJC2ZP/A", 
+    "price" : NumberInt(7490000), 
+    "type" : NumberInt(7), 
+    "stock" : NumberInt(11), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đỏ"
+        }, 
+        {
+            "key" : "Khối lượng", 
+            "value" : "267g"
+        }
+    ], 
+    "code" : "SKU200400465", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996739/products/SKU200400465/hkhbnmsszku3v91jnove.webp", 
+    "brand" : "Apple", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff69a7b8537f205601be5b0"), 
+    "name" : "Tai Nghe Bluetooth Jabra Elite 85t (Đen)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(7), 
+    "stock" : NumberInt(3), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Khối lượng", 
+            "value" : "45.1 g"
+        }
+    ], 
+    "code" : "SKU201202400", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609996918/products/SKU201202400/mbz1tibiwmb6axycgjqi.webp", 
+    "brand" : "Jabra", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff69c0a8537f205601be5b2"), 
+    "name" : "Bàn phím Newmen GM819", 
+    "price" : NumberInt(1150000), 
+    "type" : NumberInt(8), 
+    "stock" : NumberInt(6), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kích thước", 
+            "value" : " Full size"
+        }, 
+        {
+            "key" : "Kiểu switch", 
+            "value" : "Gaming Mechanical Blue"
+        }
+    ], 
+    "code" : "SKU19050529", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997314/products/SKU19050529/xeuzhkz6t5ot29dj46jy.webp", 
+    "brand" : "NEWMEN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff69ce58537f205601be5b5"), 
+    "name" : "Bàn phím Newmen KB810 (Đen)", 
+    "price" : NumberInt(279000), 
+    "type" : NumberInt(8), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(8), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kê tay", 
+            "value" : "Có"
+        }, 
+        {
+            "key" : "Kết nối", 
+            "value" : "Bàn phím có dây"
+        }
+    ], 
+    "code" : "SKU1601562", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997534/products/SKU1601562/hx8ge5hxw4hsumc3toke.webp", 
+    "brand" : "NEWMEN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff69e2a8537f205601be5b8"), 
+    "name" : "Bà̀n phím giả cơ Logitech Gaming G213 (Đen)", 
+    "price" : NumberInt(990000), 
+    "type" : NumberInt(8), 
+    "stock" : NumberInt(1), 
+    "discount" : NumberInt(10), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kiểu switch", 
+            "value" : "Rubber Dome"
+        }, 
+        {
+            "key" : "Thời gian phản hồi", 
+            "value" : "1 ms"
+        }
+    ], 
+    "code" : "SKU1701205", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997854/products/SKU1701205/yqqovmsxqmkvvl8obtbi.webp", 
+    "brand" : "LOGITECH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff69f0e8537f205601be5bb"), 
+    "name" : "Bàn phím AKKO 3087 World Tour - Tokyo Switch Pink (87 keys)", 
+    "price" : NumberInt(1299000), 
+    "type" : NumberInt(8), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Phím chức năng", 
+            "value" : "Có"
+        }, 
+        {
+            "key" : "Kiểu switch", 
+            "value" : "Akko Pink"
+        }
+    ], 
+    "code" : "SKU200500742", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609998087/products/SKU200500742/tknwauadqel5qckpkfdm.webp", 
+    "brand" : "AKKO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a0218537f205601be5be"), 
+    "name" : "Bàn phím cơ E-dra EK3104 Huano Brown Switch (Đen)", 
+    "price" : NumberInt(739000), 
+    "type" : NumberInt(8), 
+    "stock" : NumberInt(16), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kích thước", 
+            "value" : " Full size"
+        }, 
+        {
+            "key" : "Kiểu switch", 
+            "value" : "Huano Brown"
+        }
+    ], 
+    "code" : "SKU201201678", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609998366/products/SKU201201678/hppwiyjptredcodm9veh.webp", 
+    "brand" : "E-Dra", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a14f8537f205601be5c0"), 
+    "name" : "Bàn phím cơ CORSAIR K70 (Full size/Cherry MX Red/Đỏ)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(8), 
+    "stock" : NumberInt(4), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kiểu switch", 
+            "value" : "Cherry MX Red Red"
+        }, 
+        {
+            "key" : "Kê tay", 
+            "value" : "Có"
+        }
+    ], 
+    "code" : "SKU1601381", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609998664/products/SKU1601381/zpescncvg1vqhlimlhyd.webp", 
+    "brand" : "CORSAIR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a2318537f205601be5c3"), 
+    "name" : "Bàn phím Dareu LK135 Gaming", 
+    "price" : NumberInt(179000), 
+    "type" : NumberInt(8), 
+    "stock" : NumberInt(9), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kết nối", 
+            "value" : "Bàn phím có dây"
+        }, 
+        {
+            "key" : "Kiểu switch", 
+            "value" : "Rubber Dome Đen"
+        }
+    ], 
+    "code" : "SKU1800231", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609998891/products/SKU1800231/mg0u9afhpmxiswh2brq7.webp", 
+    "brand" : "DAREU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a3c98537f205601be5c6"), 
+    "name" : "Màn Hình ASUS 27\" VZ279HE (FullHD/5ms)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(9), 
+    "stock" : NumberInt(11), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "HDR", 
+            "value" : "Không hỗ trợ"
+        }, 
+        {
+            "key" : "Khối lượng", 
+            "value" : "6.0 kg"
+        }
+    ], 
+    "code" : "SKU1702373", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609999294/products/SKU1702373/xiprsalt6bsbddbgvisd.webp", 
+    "brand" : "ASUS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a7df8537f205601be5c9"), 
+    "name" : "Màn hình LCD MSI Optix AG32CV (1920 x 1080/VA/165Hz/1 ms)", 
+    "price" : NumberInt(8060000), 
+    "type" : NumberInt(9), 
+    "stock" : NumberInt(13), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kiểu màn hình", 
+            "value" : " Màn hình cong"
+        }, 
+        {
+            "key" : "Khối lượng", 
+            "value" : "Không hỗ trô"
+        }
+    ], 
+    "code" : "SKU190904262", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000345/products/SKU190904262/aisui3erydnz5as5fi8w.webp", 
+    "brand" : "MSI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a8d28537f205601be5cb"), 
+    "name" : "Màn Hình cong Samsung 34\" LC34F791WQEXXV (3440x1440/VA/100Hz/4ms/FreeSync)", 
+    "price" : NumberInt(39780000), 
+    "type" : NumberInt(9), 
+    "stock" : NumberInt(11), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kiểu màn hình", 
+            "value" : "Màn hình cong"
+        }, 
+        {
+            "key" : "Thời gian phản hồi", 
+            "value" : "4ms"
+        }
+    ], 
+    "code" : "SKU1702765", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000585/products/SKU1702765/drdd07sss3xbfbnvbtiq.webp", 
+    "brand" : "Samsung", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a9bc8537f205601be5ce"), 
+    "name" : "Màn Hình Acer 27\" ET271 (1920x1080/PLS/60Hz/4ms)", 
+    "price" : NumberInt(4450000), 
+    "type" : NumberInt(9), 
+    "stock" : NumberInt(8), 
+    "discount" : NumberInt(4), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kiểu màn hình", 
+            "value" : " Màn hình phẳng"
+        }, 
+        {
+            "key" : "Khối lượng", 
+            "value" : "4.90 kg"
+        }
+    ], 
+    "code" : "SKU1702475", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000818/products/SKU1702475/tqzyznieg2ccwosnlvw8.webp", 
+    "brand" : "Acer", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6aacc8537f205601be5d1"), 
+    "name" : "Màn hình LCD Dell U2720Q (3840 x 2160/IPS/60Hz/8 ms)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(9), 
+    "stock" : NumberInt(6), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kiểu màn hình", 
+            "value" : "Màn hình phẳng"
+        }, 
+        {
+            "key" : "Khối lượng", 
+            "value" : " 6.6 kg"
+        }
+    ], 
+    "code" : "SKU200400918", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610001091/products/SKU200400918/zdfybzimti0et1xg8hba.webp", 
+    "brand" : "Dell", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6abb48537f205601be5d4"), 
+    "name" : "Chuột gaming Razer DeathAdder Elite (Đen)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(10), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Kết nối", 
+            "value" : "USB 2.0"
+        }, 
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }
+    ], 
+    "code" : "SKU1704078", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610001327/products/SKU1704078/scmh2h5fdoa6sst4ytvz.webp", 
+    "brand" : "Razer", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff702e41092ea0e7cd6251f"), 
+    "name" : "Chuột không dây Logitech M187 (Trắng)", 
+    "price" : NumberInt(310000), 
+    "type" : NumberInt(10), 
+    "stock" : NumberInt(13), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Trắng"
+        }, 
+        {
+            "key" : "Độ phân giải (CPI/DPI)", 
+            "value" : "1000DPI"
+        }
+    ], 
+    "code" : "SKU1204451", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610023645/products/SKU1204451/r3glio2zqiby03duglto.webp", 
+    "brand" : "LOGITECH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff704521092ea0e7cd62522"), 
+    "name" : "Chuột máy tính gaming E-Dra EM6502", 
+    "price" : NumberInt(399000), 
+    "type" : NumberInt(10), 
+    "stock" : NumberInt(8), 
+    "discount" : NumberInt(10), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Khối lượng", 
+            "value" : "105 g"
+        }, 
+        {
+            "key" : "Độ phân giải (CPI/DPI)", 
+            "value" : "6200DPI"
+        }
+    ], 
+    "code" : "SKU200201229", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610024010/products/SKU200201229/azouwjbt71y4rovepu47.webp", 
+    "brand" : "E-Dra", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7050d1092ea0e7cd62525"), 
+    "name" : "Chuột máy tính Asus ROG PUGIO II", 
+    "price" : NumberInt(2490000), 
+    "type" : NumberInt(10), 
+    "stock" : NumberInt(10), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Độ phân giải (CPI/DPI)", 
+            "value" : "16000DPI"
+        }, 
+        {
+            "key" : "Màu sắc", 
+            "value" : " Đen"
+        }
+    ], 
+    "code" : "SKU200700064", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610024197/products/SKU200700064/ngqffcsqwdbmguqgh7it.webp", 
+    "brand" : "ASUS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff70ca91092ea0e7cd62528"), 
+    "name" : "Chuột máy tính Asus TUF Gaming M3", 
+    "price" : NumberInt(690000), 
+    "type" : NumberInt(10), 
+    "stock" : NumberInt(14), 
+    "discount" : NumberInt(6), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Khối lượng", 
+            "value" : " 84 g"
+        }, 
+        {
+            "key" : "Màu sắc", 
+            "value" : "Xám"
+        }
+    ], 
+    "code" : "SKU191007012", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610026142/products/SKU191007012/nyzfxzaxkwk8wdawelr2.webp", 
+    "brand" : "ASUS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff70dc81092ea0e7cd6252b"), 
+    "name" : "Router TOTO LINK A810R", 
+    "price" : NumberInt(599000), 
+    "type" : NumberInt(11), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Chuẩn kết nối", 
+            "value" : "802.11a/b/g/n/ac"
+        }
+    ], 
+    "code" : "SKU19050398", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610026434/products/SKU19050398/iousq1nrg9pmeiejv6ne.webp", 
+    "brand" : "TOTO LINK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7dfdbb741513f8c312fdf"), 
+    "name" : "Router Wifi Tenda W309R+", 
+    "price" : NumberInt(560000), 
+    "type" : NumberInt(11), 
+    "stock" : NumberInt(1), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Nguồn điện cấp", 
+            "value" : " 9V DC / 1A"
+        }
+    ], 
+    "code" : "SKU1501547", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080216/products/SKU1501547/le1cutmokieltw50jzsc.webp", 
+    "brand" : "TENDA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7e0b0b741513f8c312fe2"), 
+    "name" : "Router Wifi D-Link DIR 825+", 
+    "price" : NumberInt(1750000), 
+    "type" : NumberInt(11), 
+    "stock" : NumberInt(10), 
+    "discount" : NumberInt(3), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Nguồn điện cấp", 
+            "value" : "12V DC / 1.5A"
+        }
+    ], 
+    "code" : "SKU18110413", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080425/products/SKU18110413/zohrnhequziqj6etohrq.webp", 
+    "brand" : "D-LINK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7e176b741513f8c312fe5"), 
+    "name" : "Router Wifi ToToLink N300RH", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(11), 
+    "stock" : NumberInt(5), 
+    "discount" : NumberInt(8), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Trắng"
+        }, 
+        {
+            "key" : "Nguồn điện cấp", 
+            "value" : " 12V DC / 1A"
+        }
+    ], 
+    "code" : "SKU1402116", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080623/products/SKU1402116/d5qve5afd41pkokq8doh.webp", 
+    "brand" : "TOTO LINK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7e235b741513f8c312fe8"), 
+    "name" : "Router Wifi ToToLink A950RG", 
+    "price" : NumberInt(915000), 
+    "type" : NumberInt(11), 
+    "stock" : NumberInt(7), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Nguồn điện cấp", 
+            "value" : "12V DC / 1A"
+        }
+    ], 
+    "code" : "SKU1809048", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610080816/products/SKU1809048/iajdhdolu7zyqfe2yirs.webp", 
+    "brand" : "TOTO LINK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7e361b741513f8c312fea"), 
+    "name" : "Loa Bose SoundBar 500", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(12), 
+    "stock" : NumberInt(10), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }
+    ], 
+    "code" : "SKU201201137", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610081115/products/SKU201201137/ht852msdxyrzixlfnq94.webp", 
+    "brand" : "Bose", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7e44cb741513f8c312fec"), 
+    "name" : "Loa Karaoke SDRD SD306", 
+    "price" : NumberInt(1290000), 
+    "type" : NumberInt(12), 
+    "stock" : NumberInt(4), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Nhiều màu"
+        }, 
+        {
+            "key" : "Tần số phản hồi", 
+            "value" : "100Hz - 18kHz"
+        }
+    ], 
+    "code" : "SKU200600163", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610081349/products/SKU200600163/bbsqu1tay7fl2ne91r0i.webp", 
+    "brand" : "Remax", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7e52ab741513f8c312fef"), 
+    "name" : "Loa Soundmax BS40/2.0", 
+    "price" : NumberInt(1995000), 
+    "type" : NumberInt(12), 
+    "stock" : NumberInt(13), 
+    "discount" : NumberInt(20), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Cam"
+        }, 
+        {
+            "key" : "Tần số phản hồi", 
+            "value" : "20Hz-20KHz"
+        }
+    ], 
+    "code" : "SKU190904363", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610081574/products/SKU190904363/muixfhe3nfqt3rgutdco.webp", 
+    "brand" : "SOUNDMAX", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7ed82b741513f8c312ff2"), 
+    "name" : "Loa Bluetooth Beats Pill+ Speaker - Black, ML4M2ZA/A", 
+    "price" : NumberInt(5290000), 
+    "type" : NumberInt(12), 
+    "stock" : NumberInt(8), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Kiểu pin", 
+            "value" : " Pin Lithium"
+        }
+    ], 
+    "code" : "SKU200400457", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610083705/products/SKU200400457/vhew5itxefs6i1jndfbn.webp", 
+    "brand" : "Aplle", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7ee79b741513f8c312ff5"), 
+    "name" : "Loa Bluetooth Sony SRS-XB31/YC SP6 (Vàng)", 
+    "price" : NumberInt(3290000), 
+    "type" : NumberInt(12), 
+    "stock" : NumberInt(13), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Vàng"
+        }, 
+        {
+            "key" : "Tần số phản hồi", 
+            "value" : " 20 Hz – 20.000 Hz (lấy mẫu 44,1 kHz)"
+        }
+    ], 
+    "code" : "SKU1809027", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610083954/products/SKU1809027/o2vyxpfhsgbg6rvhfpor.webp", 
+    "brand" : "Sony", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7ef7db741513f8c312ff7"), 
+    "name" : "Máy ảnh Canon Ixus 190", 
+    "price" : NumberInt(3990000), 
+    "type" : NumberInt(13), 
+    "stock" : NumberInt(2), 
+    "discount" : NumberInt(2), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }
+    ], 
+    "code" : "SKU190904401", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084216/products/SKU190904401/x36y7essmby1kstevlx7.webp", 
+    "brand" : "Canon", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f056b741513f8c312ff9"), 
+    "name" : "Máy ảnh Canon in liền iNSPiC [S] ZV-123A (Vàng hồng)", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(13), 
+    "stock" : NumberInt(12), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Vàng hồng"
+        }, 
+        {
+            "key" : "Thẻ nhớ hỗ trợ", 
+            "value" : " Micro SD"
+        }
+    ], 
+    "code" : "SKU19070071", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084433/products/SKU19070071/ma4jk8aigmvkgxmefoxs.webp", 
+    "brand" : "Canon", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f1f5b741513f8c312ffc"), 
+    "name" : "Ống kính máy ảnh/Lens Sony SEL18200LE", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(13), 
+    "stock" : NumberInt(9), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }, 
+        {
+            "key" : "Phụ kiện", 
+            "value" : "Loa che nắng (ALC-SH124: hình cánh hoa, kiểu lưỡi lê), Nắp trước ống kính, Nắp sau ống kính"
+        }
+    ], 
+    "code" : "SKU190800219", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610084843/products/SKU190800219/uc8ml6o1tgxipkafdiq5.webp", 
+    "brand" : "Sony", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f32db741513f8c312fff"), 
+    "name" : "Máy ảnh Sony WX350 (DSC-WX350/WCE32)", 
+    "price" : NumberInt(5690000), 
+    "type" : NumberInt(13), 
+    "stock" : NumberInt(3), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Trắng"
+        }
+    ], 
+    "code" : "SKU190800279", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085155/products/SKU190800279/kpsbol7zfuzu8coilcyi.webp", 
+    "brand" : "Sony", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f4c3b741513f8c313002"), 
+    "name" : "Máy Quay GoPro MAX 360 (CHDHZ-201)", 
+    "price" : NumberInt(12990000), 
+    "type" : NumberInt(13), 
+    "stock" : NumberInt(9), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }
+    ], 
+    "code" : "SKU191004599", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085562/products/SKU191004599/zxwjis9anrfbpkmk8xsz.webp", 
+    "brand" : "GoPro", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f63ab741513f8c313005"), 
+    "name" : "Máy ảnh Fujifilm X-T3 Body (Đen)", 
+    "price" : NumberInt(36990000), 
+    "type" : NumberInt(13), 
+    "stock" : NumberInt(11), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }
+    ], 
+    "code" : "SKU191100603", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610085941/products/SKU191100603/u6m1li4l688uwmsz15db.webp", 
+    "brand" : "Fujifilm", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f7d1b741513f8c313008"), 
+    "name" : "Thiết bị ghi hình/ Webcam Logitech B525", 
+    "price" : NumberInt(890000), 
+    "type" : NumberInt(14), 
+    "stock" : NumberInt(2), 
+    "discount" : NumberInt(1), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : " Đen"
+        }
+    ], 
+    "code" : "SKU1404484", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610086347/products/SKU1404484/pxdopd4ih9nuniurgxfq.webp", 
+    "brand" : "Logitech", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f89ab741513f8c31300b"), 
+    "name" : "Thiết bị ghi hình/Webcam Logitech Meetup", 
+    "price" : NumberInt(23990000), 
+    "type" : NumberInt(14), 
+    "stock" : NumberInt(11), 
+    "discount" : NumberInt(5), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : " Xám"
+        }, 
+        {
+            "key" : "Khối lượng", 
+            "value" : "1.04 g"
+        }
+    ], 
+    "code" : "SKU1809050", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610086546/products/SKU1809050/zqiidweinfhuprrszsud.webp", 
+    "brand" : "Logitech", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff7f986b741513f8c31300e"), 
+    "name" : "Thiết bị ghi hình/ Webcam Logitech C922", 
+    "price" : NumberInt(0), 
+    "type" : NumberInt(14), 
+    "stock" : NumberInt(13), 
+    "discount" : NumberInt(0), 
+    "rate" : [
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0), 
+        NumberInt(0)
+    ], 
+    "otherInfo" : [
+        {
+            "key" : "Màu sắc", 
+            "value" : "Đen"
+        }
+    ], 
+    "code" : "SKU1603530", 
+    "avt" : "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610086783/products/SKU1603530/tsvdedtyn20wubgjatq9.webp", 
+    "brand" : "Logitech", 
+    "__v" : NumberInt(0)
+}

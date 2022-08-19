@@ -1,0 +1,111 @@
+{ 
+    "_id" : ObjectId("5ff496c0c8990b2eb4d6c344"), 
+    "bgPlate" : NumberInt(2), 
+    "resolution" : NumberInt(3), 
+    "frequency" : NumberInt(100), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864883/products/SKU240500857/jyqrp0hwvvl8qaljlmaf.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864885/products/SKU240500857/qaao1uns41x9usnqxars.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864887/products/SKU240500857/flwzqrd7plvhuzovam0z.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864889/products/SKU240500857/wdhzh5wtd1txd3ayzsmu.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864891/products/SKU240500857/ej90qpc5myxbxjsk1vdf.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff496c0c8990b2eb4d6c342"), 
+    "details" : ObjectId("5ff496c0c8990b2eb4d6c343"), 
+    "displaySize" : "19.5\"", 
+    "port" : "1 x VGA/D-sub", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a3ca8537f205601be5c8"), 
+    "bgPlate" : NumberInt(0), 
+    "resolution" : NumberInt(0), 
+    "frequency" : NumberInt(120), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609999295/products/SKU1702373/f425zmd84f4g0uuan3am.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609999297/products/SKU1702373/ydnchj5klktta7ekpoxk.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609999298/products/SKU1702373/pwse9vzdazzr4hawtext.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609999300/products/SKU1702373/hnhkdw37d5t8hbdr7k0v.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff6a3c98537f205601be5c6"), 
+    "details" : ObjectId("5ff6a3c98537f205601be5c7"), 
+    "displaySize" : "27\"", 
+    "port" : "2 x HDMI , 1 x VGA/D-sub", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a7df8537f205601be5ca"), 
+    "bgPlate" : NumberInt(1), 
+    "resolution" : NumberInt(0), 
+    "frequency" : NumberInt(165), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000347/products/SKU190904262/uwcryzrt0zjptrrwzbpe.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000348/products/SKU190904262/faim68fpipijo5tb15hk.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000349/products/SKU190904262/pt6wnhik3hrecbfun40m.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000350/products/SKU190904262/kwyb3nas0kvpddecjsqq.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff6a7df8537f205601be5c9"), 
+    "details" : null, 
+    "displaySize" : "31.5\"", 
+    "port" : "1 x HDMI 2.0 , 1 x DisplayPort 1.2 , 1 x DVI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a8d38537f205601be5cd"), 
+    "bgPlate" : NumberInt(1), 
+    "resolution" : NumberInt(6), 
+    "frequency" : NumberInt(100), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000587/products/SKU1702765/hminu9afjtpr9fjw15mc.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000588/products/SKU1702765/onhwpmeyztjdnr8a6rko.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000590/products/SKU1702765/onzfwpt46e4kcrtqdfck.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000590/products/SKU1702765/rhakjdnf8jbhdxj5xmre.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff6a8d28537f205601be5cb"), 
+    "details" : ObjectId("5ff6a8d28537f205601be5cc"), 
+    "displaySize" : "34\"", 
+    "port" : "2 x HDMI , 1 x DisplayPort", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a9bd8537f205601be5d0"), 
+    "bgPlate" : NumberInt(3), 
+    "resolution" : NumberInt(0), 
+    "frequency" : NumberInt(60), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000819/products/SKU1702475/vqpjhk8wawojvteh5mv8.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000821/products/SKU1702475/bfmxockkpoq81twpb9rj.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000822/products/SKU1702475/hzpourlmorjrbacyuan2.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000823/products/SKU1702475/e73wdn8varkqqizumufj.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610000824/products/SKU1702475/odmyululocdrsywjbv1g.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff6a9bc8537f205601be5ce"), 
+    "details" : ObjectId("5ff6a9bc8537f205601be5cf"), 
+    "displaySize" : "27\"", 
+    "port" : "1 x HDMI , 1 x VGA/D-sub", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6aacc8537f205601be5d3"), 
+    "bgPlate" : NumberInt(0), 
+    "resolution" : NumberInt(4), 
+    "frequency" : NumberInt(60), 
+    "warranty" : NumberInt(36), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610001092/products/SKU200400918/pntj3yz4tkuwrono5l6e.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610001094/products/SKU200400918/vn24pz4qulrp1xgceu23.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610001095/products/SKU200400918/zgxlo9lnrltj7weqio8h.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610001096/products/SKU200400918/wunwehal3pxpibnecjym.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1610001097/products/SKU200400918/en4scynmtxoxoafuuee7.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff6aacc8537f205601be5d1"), 
+    "details" : ObjectId("5ff6aacc8537f205601be5d2"), 
+    "displaySize" : "27\"", 
+    "port" : "1 x HDMI , 1 x DisplayPort", 
+    "__v" : NumberInt(0)
+}

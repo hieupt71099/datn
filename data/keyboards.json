@@ -1,0 +1,116 @@
+{ 
+    "_id" : ObjectId("5ff49521c8990b2eb4d6c341"), 
+    "type" : NumberInt(1), 
+    "color" : NumberInt(0), 
+    "ledColor" : NumberInt(2), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864473/products/SKU170500857/sjd77cx8rzfx1zjbfafk.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609864475/products/SKU170500857/u8l8ogvvqyye6gy7c0mw.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff49520c8990b2eb4d6c33f"), 
+    "details" : ObjectId("5ff49521c8990b2eb4d6c340"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff69c0a8537f205601be5b4"), 
+    "type" : NumberInt(2), 
+    "color" : NumberInt(0), 
+    "ledColor" : NumberInt(3), 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997315/products/SKU19050529/ko4tefjxwhjxfebwmbzs.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997317/products/SKU19050529/qchqpu1e5jtjm7melqrq.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997318/products/SKU19050529/byq2gq73hubjf7eoxeql.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff69c0a8537f205601be5b2"), 
+    "details" : ObjectId("5ff69c0a8537f205601be5b3"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff69ce58537f205601be5b7"), 
+    "type" : NumberInt(0), 
+    "color" : NumberInt(0), 
+    "ledColor" : NumberInt(0), 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997536/products/SKU1601562/z182o1ie3bdhthw4f8s1.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997537/products/SKU1601562/uc4rjqwxrajlrugj2pm0.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff69ce58537f205601be5b5"), 
+    "details" : ObjectId("5ff69ce58537f205601be5b6"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff69e2b8537f205601be5ba"), 
+    "type" : NumberInt(1), 
+    "color" : NumberInt(0), 
+    "ledColor" : NumberInt(3), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997855/products/SKU1701205/hqv23mgxiqk2jgewvdez.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997856/products/SKU1701205/hgh2a7zha5ork8vomk9d.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997858/products/SKU1701205/bymtgoy0rauakliabcbj.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997859/products/SKU1701205/bixrfysr0xacxbawee4u.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609997860/products/SKU1701205/tqzrtsghf490hmuqo4ow.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff69e2a8537f205601be5b8"), 
+    "details" : ObjectId("5ff69e2b8537f205601be5b9"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff69f0f8537f205601be5bd"), 
+    "type" : NumberInt(2), 
+    "color" : NumberInt(3), 
+    "ledColor" : NumberInt(0), 
+    "warranty" : NumberInt(12), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609998088/products/SKU200500742/stdn0jrlaigqqnsixelc.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609998090/products/SKU200500742/eustnhbjdwnvym949khi.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609998091/products/SKU200500742/yv3sly2zlcn5fxsmfi3g.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff69f0e8537f205601be5bb"), 
+    "details" : ObjectId("5ff69f0e8537f205601be5bc"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a0218537f205601be5bf"), 
+    "type" : NumberInt(2), 
+    "color" : NumberInt(0), 
+    "ledColor" : NumberInt(2), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609998367/products/SKU201201678/kxcht7oxykkndiknxw5y.jpg", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609998368/products/SKU201201678/ekdqgi22b68xhpadw0az.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff6a0218537f205601be5be"), 
+    "details" : null, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a1508537f205601be5c2"), 
+    "type" : NumberInt(2), 
+    "color" : NumberInt(0), 
+    "ledColor" : NumberInt(1), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609998666/products/SKU1601381/axcnpk28liowatstlb7l.png", 
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609998668/products/SKU1601381/yrn7knzbohxufxzrqews.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff6a14f8537f205601be5c0"), 
+    "details" : ObjectId("5ff6a1508537f205601be5c1"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ff6a2328537f205601be5c5"), 
+    "type" : NumberInt(0), 
+    "color" : NumberInt(0), 
+    "ledColor" : NumberInt(0), 
+    "warranty" : NumberInt(24), 
+    "catalogs" : [
+        "https://res.cloudinary.com/tuan-cloudinary/image/upload/v1609998892/products/SKU1800231/wy1iew37qgeblwd3imiu.jpg"
+    ], 
+    "idProduct" : ObjectId("5ff6a2318537f205601be5c3"), 
+    "details" : ObjectId("5ff6a2328537f205601be5c4"), 
+    "__v" : NumberInt(0)
+}

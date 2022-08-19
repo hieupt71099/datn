@@ -13,6 +13,9 @@ adminApi.post('/products/add', adminController.addProduct);
 // api: cập nhật 1 sản phẩm
 adminApi.put('/products/update', adminController.updateProduct);
 
+// api: cập nhật số lượng 1 sản phẩm
+adminApi.put('/products/update/quantity', adminController.updateProductQuantity);
+
 // api: đăng nhập với admin
 adminApi.post('/login', adminController.postLogin);
 

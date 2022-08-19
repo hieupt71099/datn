@@ -30,12 +30,9 @@ function SeeProduct() {
   const onDelete = async (_id) => {
     try {
       const response = await adminApi.removeProduct(_id);
-      if (response && response.status === 200) {
-        message.success('Xoá thành công.');
-        const newList = list.filter((item) => item._id !== _id);
-        setList(newList);
-        setTotal(total - 1);
-      }
+      message.success('Xoá thành công.');
+      const newList = list.filter((item) => item._id !== _id);
+      setList(newList);
     } catch (error) {
       message.error('Xoá thất bại, thử lại !');
     }

@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 
 function generateFilterOrder() {
   let result = [];
-  for (let i = 0; i < 7; ++i) {
+  for (let i = 0; i < 8; ++i) {
     result.push({ value: i, text: helpers.convertOrderStatus(i) });
   }
   return result;
@@ -17,7 +17,7 @@ function OrderList() {
   const [isLoading, setIsLoading] = useState(true);
 
   // event: Cập nhật trạng thái đơn hàng
-  const updateOrderStatus = async (id, orderStatus) => {
+  const updateOrderStatus = async (id, orderStatus, idProduct, totalMoney) => {
     try {
       const response = await adminApi.postUpdateOrderStatus(id, orderStatus);
       if (response) {
@@ -28,13 +28,19 @@ function OrderList() {
           ),
         );
       }
+      if (orderStatus === 7){
+        const response = await adminApi.updateProductQuantity(idProduct, totalMoney);
+        if (response) {
+          message.success('Cập nhật lại số lượng sản phẩm thành công');
+        }
+      }
     } catch (error) {
       message.success('Cập nhật thất bại');
     }
   };
 
   // modal cập nhật trạng thái đơn hàng
-  function UpdateOrderStatusModal(defaultVal = 0, orderCode, orderId) {
+  function UpdateOrderStatusModal(defaultVal = 0, orderCode, orderId, idProduct, totalMoney) {
     let valueCurr = defaultVal;
     const modal = Modal.info({
       width: 768,
@@ -55,7 +61,7 @@ function OrderList() {
       icon: null,
       okText: 'Cập nhật',
       onOk: () => {
-        updateOrderStatus(orderId, valueCurr);
+        updateOrderStatus(orderId, valueCurr, idProduct, totalMoney);
         modal.destroy();
       },
     });
@@ -120,19 +126,23 @@ function OrderList() {
     },
     {
       title: '',
-      render: (_v, records) => (
-        <Button
+      render: (_v, records) => {
+        console.log(records);
+        return ( records.orderStatus !== 7 ? <Button
           type="dashed"
           onClick={() =>
             UpdateOrderStatusModal(
               records.orderStatus,
               records.orderCode,
               records.orderId,
+              records.idProduct,
+              records.totalMoney
             )
           }>
           Cập nhật
-        </Button>
-      ),
+        </Button> : <></>
+        )
+      },
     },
   ];
 
